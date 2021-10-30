@@ -1,0 +1,406 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .style_header {
+        padding: 10px 0;
+        border: 1px solid red;
+        border-bottom: 2px solid #eee;
+        overflow: hidden;
+    }
+    
+    .container {
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    .logo {
+        width: 30%;
+        float: left;
+        overflow: hidden;
+    }
+    
+    .logo img {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .web_menu {
+        width: 70%;
+        float: right;
+        overflow: hidden;
+        text-align: right;
+        margin-top: 13px;
+    }
+    
+    .web_menu ul li {
+        display: inline-block;
+    }
+    
+    .web_menu ul li a {
+        display: block;
+        text-decoration: none;
+        text-transform: capitalize;
+        font-size: 16px;
+        margin: 0 20px;
+    }
+    
+    .web_menu ul li a i {
+        margin-right: 5px;
+    }
+    
+    .web_menu ul li a img {
+        width: 20px;
+        height: 20px;
+        position: relative;
+        top: 4px;
+        margin-right: 5px;
+    }
+    
+    .login_bar {
+        border: 1px solid red;
+        padding: 7px 20px;
+        background-color: #c44569;
+        color: #fff;
+        border-radius: 33px;
+        -webkit-border-radius: 33px;
+        -moz-border-radius: 33px;
+        -ms-border-radius: 33px;
+        -o-border-radius: 33px;
+        outline: none;
+    }
+    /* end header*/
+    /*star contant*/
+    
+    .contant {
+        overflow: hidden;
+        margin-top: 20px;
+    }
+    
+    .container_fluid {
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+    .portal_name {
+        text-align: center;
+        font-size: 20px;
+        text-transform: capitalize;
+        font-family: 'Roboto Slab', serif;
+        color: #a5b1c2;
+    }
+    /*star contant left*/
+    
+    .contant_left {
+        width: 50%;
+        float: left;
+        overflow: hidden;
+        position: relative;
+        margin-top: 100px;
+    }
+    
+    .patient_img_and_other {
+        width: 150px;
+        height: 190px;
+        display: block;
+        text-align: center;
+        position: relative;
+        left: 50%;
+    }
+    
+    .patient_img {
+        width: 145px;
+        height: 145px;
+        margin: 0 auto;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+        border: 10px solid #f5f6fa;
+    }
+    
+    .patient_img img {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    
+    .patient_name button {
+        text-align: center;
+        font-size: 15px;
+        margin-top: 13px;
+        padding: 7px 20px;
+        background-color: #eb4d4b;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+        color: #fff;
+        border: none;
+    }
+    /*star contant right*/
+    
+    .contant_right {
+        width: 50%;
+        float: right;
+        overflow: hidden;
+        margin-top: 70px;
+    }
+    
+    .task {
+        width: 350px;
+        margin-bottom: 15px;
+    }
+    
+    .task_icon {
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        position: relative;
+        top: 5px;
+        margin-right: 10px;
+    }
+    
+    .task_icon span {
+        display: block;
+        width: 100%;
+        height: 100%;
+        border: 5px solid blue;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    
+    .task_name {
+        width: 310px;
+        border: 1px solid green;
+        display: inline-block;
+        background-color: #192a56;
+        color: #fff;
+        text-align: center;
+        font-family: 'Libre Baskerville', serif;
+        text-transform: capitalize;
+        font-size: 20px;
+        padding: 10px 0;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+    }
+    
+    .task_name:hover {
+        cursor: pointer;
+    }
+    /*star footer style*/
+    
+    .style_footer {
+        margin-top: 80px;
+        text-align: right;
+    }
+    
+    .style_footer button {
+        padding: 9px 15px;
+        font-family: 'Libre Baskerville', serif;
+        background-color: #FC427B;
+        color: #fff;
+        font-size: 20px;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+        border: none;
+        border: 2px solid #1B9CFC;
+    }
+    
+    .style_footer button:hover {
+        cursor: pointer;
+    }
+    /*patient_all_information*/
+    
+    .patient_all_information {
+        overflow: hidden;
+        background-color: #f5f5f5;
+    }
+    
+    .web_margin {
+        width: 60%;
+        margin: 0 auto;
+    }
+    
+    .basic_information {
+        width: 40%;
+        height: 358px;
+        float: left;
+        overflow: hidden;
+        background-color: #fff;
+        border: 1px solid #eee;
+        margin-right: 3%;
+        margin-top: 30px;
+        margin-left: 15%;
+    }
+    
+    .adbance_informations {
+        width: 40%;
+        height: 358px;
+        float: left;
+        overflow: hidden;
+        background-color: #fff;
+        border: 1px solid #eee;
+        margin-top: 30px;
+    }
+    
+    .basic_information_header {
+        width: 100%;
+        height: 30%;
+        background-color: #4b7bec;
+        position: relative;
+    }
+    
+    .patient_img_and_name {
+        width: 80px;
+        margin: 0 auto;
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    
+    .patient_img_div {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    
+    .patient_img_div img {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    
+    .patient_name p {
+        font-size: 20px;
+        text-transform: capitalize;
+        font-family: 'Libre Baskerville', serif;
+        margin-top: -17px;
+    }
+    
+    .images_change_icon button {
+        width: 30px;
+        height: 30px;
+        background-color: #f5f5f5;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: -40px;
+        left: 60px;
+        border: none;
+    }
+    
+    .images_change_icon button:hover {
+        cursor: pointer;
+    }
+    
+    .basic_information_bottom {
+        margin-top: 90px;
+    }
+    
+    .patient_information {
+        width: 95%;
+        margin: 0 auto;
+        border: 1px solid #f5f5f5;
+        background-color: #f8f5ff;
+        margin-bottom: 8px;
+        padding: 3px 0;
+        text-transform: capitalize;
+        font-family: 'Libre Baskerville', serif;
+        overflow: hidden;
+    }
+    
+    .type {
+        width: 30%;
+        float: left;
+        overflow: hidden;
+        font-size: 10px;
+    }
+    
+    .data {
+        width: 70%;
+        float: right;
+        overflow: hidden;
+        text-align: right;
+        font-size: 8px;
+    }
+    
+    .other_informations_options {
+        text-align: center;
+        border-bottom: 3px solid #f5f5f5;
+        margin-bottom: 20px;
+    }
+    
+    .other_informations_options ul li {
+        display: inline-block;
+    }
+    
+    .other_informations_options ul li a {
+        display: block;
+        text-decoration: none;
+        text-transform: capitalize;
+        font-size: 12px;
+        margin: 7px 9px;
+    }
+    
+    .fast_child {
+        border-bottom: 2px solid dodgerblue;
+    }
+    
+    .footer {
+        padding-top: 80px;
+        text-align: right;
+        background-color: #f5f5f5;
+    }
+    
+    .footer button {
+        padding: 9px 15px;
+        font-family: 'Libre Baskerville', serif;
+        background-color: #FC427B;
+        color: #fff;
+        font-size: 20px;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+        border: none;
+        border: 2px solid #1B9CFC;
+    }
+    
+    .footer button:hover {
+        cursor: pointer;
+    }

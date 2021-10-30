@@ -1,0 +1,8 @@
+
+public class Mango extends Fruit {
+	
+	String propagation;
+	
+	
+
+}

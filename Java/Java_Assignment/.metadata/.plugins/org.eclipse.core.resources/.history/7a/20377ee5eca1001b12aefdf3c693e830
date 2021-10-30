@@ -1,0 +1,13 @@
+package assignment3;
+
+public class DateOfBirth {
+	private int date;
+	private int month;
+	private int year;
+	
+	
+	
+	
+	
+
+}

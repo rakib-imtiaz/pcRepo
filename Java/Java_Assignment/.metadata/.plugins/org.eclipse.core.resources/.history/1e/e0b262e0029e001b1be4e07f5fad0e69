@@ -1,0 +1,43 @@
+
+public class Square  extends  Rectangle{
+	
+	public double side_length;
+
+	public Square(boolean filled, String color, double side_length) {
+		super(filled, color,side_length,side_length);
+		
+		this.side_length=side_length;
+	}
+	
+	
+	
+	
+	@Override
+	public String toString() {
+		return "Square [Color=" + color + "Is filled=" + filled +"Length of Side: "+side_length+ "]";
+	}
+
+
+
+
+	@Override
+	double getArea() {
+		
+		System.out.println("dsdsd");		
+		return 4*side_length;
+	}
+
+
+
+
+	@Override
+	double getPerimeter() {
+		
+		
+		return super.getPerimeter();
+	}
+	
+
+	
+
+}

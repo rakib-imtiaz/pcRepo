@@ -1,0 +1,82 @@
+package assignment3;
+
+import java.util.Random;
+
+public class PassportInfo {
+	
+	String passportNumber;
+	private String firstName;
+	private String lastName;
+	private String nidNumber;
+	
+	public String getFirstName(){
+		
+		return firstName;
+	}
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
+	}
+	public String getLastName() {
+		return lastName;
+	}
+	public void setLastName(String lastName) {
+		this.lastName = lastName;
+	}
+	public String getNidNumber() {
+		return nidNumber;
+	}
+	public void setNidNumber(String nidNumber) {
+		this.nidNumber = nidNumber;
+	}
+	public StringBuffer getPassportNumber() 
+	{
+		String s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+		char[] capitalLetter = s.toCharArray();
+
+		Random r = new Random();
+		int low = 1;
+		int high = 26;
+
+		int randomNumber1 = r.nextInt(high - low) + low;
+		int randomNumber2 = r.nextInt(high - low) + low;
+
+		char first=capitalLetter[randomNumber1];
+		char second=capitalLetter[randomNumber2];
+		
+		low=1;
+		high=9999999;
+		int randomNumber3 = r.nextInt(high - low) + low;
+
+		StringBuffer passportNumber= new StringBuffer();
+		passportNumber.append(first);
+		passportNumber.append(second);
+		passportNumber.append(randomNumber3);
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		return passportNumber;
+	}
+	private void setPassportNumber(String passportNumber) {
+		this.passportNumber = passportNumber;
+	}
+	
+	 private static String[] allPassportNumbers;
+	 
+	 static {
+	  allPassportNumbers = new String[100];
+	  
+	  
+   }
+	
+	
+	
+	
+
+}

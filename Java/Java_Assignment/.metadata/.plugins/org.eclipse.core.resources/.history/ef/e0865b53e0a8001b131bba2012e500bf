@@ -1,0 +1,17 @@
+package assignment4;
+
+public class NSUStaff extends Person implements Student,Teacher {
+
+	@Override
+	public String teacherId() {
+		return "NsuStaffTeacher: "+super.getNID();
+	}
+
+	@Override
+	public String studentID() {
+		return"NsuStaffStudent: "+super.getNID();
+	}
+
+	
+
+}

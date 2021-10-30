@@ -1,0 +1,376 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .style_header {
+        padding: 10px 0;
+        border: 1px solid red;
+        border-bottom: 2px solid #eee;
+        overflow: hidden;
+    }
+    
+    .container {
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    .logo {
+        width: 30%;
+        float: left;
+        overflow: hidden;
+    }
+    
+    .logo img {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .web_menu {
+        width: 70%;
+        float: right;
+        overflow: hidden;
+        text-align: right;
+        margin-top: 13px;
+    }
+    
+    .web_menu ul li {
+        display: inline-block;
+    }
+    
+    .web_menu ul li a {
+        display: block;
+        text-decoration: none;
+        text-transform: capitalize;
+        font-size: 16px;
+        margin: 0 20px;
+    }
+    
+    .web_menu ul li a i {
+        margin-right: 5px;
+    }
+    
+    .web_menu ul li a img {
+        width: 20px;
+        height: 20px;
+        position: relative;
+        top: 4px;
+        margin-right: 5px;
+    }
+    
+    .login_bar {
+        border: 1px solid red;
+        padding: 7px 20px;
+        background-color: #c44569;
+        color: #fff;
+        border-radius: 33px;
+        -webkit-border-radius: 33px;
+        -moz-border-radius: 33px;
+        -ms-border-radius: 33px;
+        -o-border-radius: 33px;
+        outline: none;
+    }
+    
+    .form_and_other {
+        overflow: hidden;
+    }
+    
+    .contant_left {
+        width: 50%;
+        float: left;
+        overflow: hidden;
+    }
+    
+    .contant_right {
+        width: 50%;
+        float: right;
+        overflow: hidden;
+        margin-top: 30px;
+    }
+    
+    .form_images img {
+        width: 90%;
+        margin-top: 50%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+    }
+    
+    .form_title {
+        margin-left: 160px;
+        text-align: center;
+    }
+    
+    .form_title h2 {
+        margin-bottom: 15px;
+        font-family: 'KoHo', sans-serif;
+    }
+    
+    .form_div {
+        width: 65%;
+    }
+    
+    .signup_form input {
+        width: 100%;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        -ms-border-radius: 7px;
+        -o-border-radius: 7px;
+        outline: none;
+        border: 1px solid #ced6e0;
+        margin-bottom: 15px;
+        margin-left: 155px;
+    }
+    
+    .signup_form input[type=submit] {
+        width: 20%;
+        background-color: #b71540;
+        padding: 10px 0;
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+        -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+        color: #fff;
+    }
+    /*star index.html*/
+    
+    .layout {
+        background-image: url(img/appointemnt.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 532px;
+        position: relative;
+    }
+    
+    .liner_layout {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75));
+    }
+    
+    .about_our_service {
+        margin-left: 80px;
+        margin-top: 140px;
+    }
+    
+    .about_our_service h2 {
+        color: #fff;
+        margin-bottom: 20px;
+    }
+    
+    .about_our_service span {
+        color: #fff;
+    }
+    
+    .search_box {
+        position: relative;
+    }
+    
+    .search_box input {
+        display: block;
+        width: 45%;
+        margin-top: 20px;
+        padding: 10px 7px;
+        padding-left: 40px;
+        color: #fff;
+        outline: none;
+        border: 1px solid #f5f5f5;
+        border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+    }
+    
+    .search_box img {
+        width: 25px;
+        height: 25px;
+        position: absolute;
+        top: 50%;
+        left: 5px;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+    }
+    
+    .about_our_service button {
+        padding: 7px 20px;
+        color: #fff;
+        background-color: #c44569;
+        border: 1px solid red;
+        margin-top: 15px;
+        border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        -ms-border-radius: 7px;
+        -o-border-radius: 7px;
+    }
+    /*star Get_Appointment*/
+    
+    .form_design {
+        display: block;
+        margin-left: 160px;
+    }
+    
+    .form_design input[type="text"] {
+        width: 100%;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        -ms-border-radius: 7px;
+        -o-border-radius: 7px;
+        outline: none;
+        border: 1px solid #ced6e0;
+        margin-bottom: 15px;
+    }
+    
+    .form_design select {
+        width: 100%;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        -ms-border-radius: 7px;
+        -o-border-radius: 7px;
+        outline: none;
+        border: 1px solid #ced6e0;
+        margin-bottom: 15px;
+        margin-top: 7px;
+    }
+    
+    .age {
+        width: 25%;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        -ms-border-radius: 7px;
+        -o-border-radius: 7px;
+        outline: none;
+        border: 1px solid #ced6e0;
+        margin-bottom: 15px;
+        margin-right: 64px;
+    }
+    
+    #date {
+        width: 55%;
+        display: inline-block;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        -ms-border-radius: 7px;
+        -o-border-radius: 7px;
+        outline: none;
+        border: 1px solid #ced6e0;
+        margin-bottom: 15px;
+    }
+    
+    #gander {
+        margin-right: 140px;
+    }
+    
+    .form_design input[type=password] {
+        width: 100%;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        -ms-border-radius: 7px;
+        -o-border-radius: 7px;
+        outline: none;
+        border: 1px solid #ced6e0;
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    
+    #chamber {
+        margin-left: 50px;
+    }
+    
+    #pattient {
+        margin-top: 15px;
+    }
+    
+    #old {
+        margin-left: 127px;
+    }
+    
+    #address {
+        margin-top: 15px;
+    }
+    
+    #Get_Appointment {
+        width: 35%;
+        background-color: #b71540;
+        padding: 10px 0;
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+        -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+        color: #fff;
+    }
+    /*star login form*/
+    
+    .login_form input {
+        width: 65%;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        border-radius: 7px;
+        -webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        -ms-border-radius: 7px;
+        -o-border-radius: 7px;
+        outline: none;
+        border: 1px solid #ced6e0;
+        margin-bottom: 15px;
+    }
+    
+    .login_form input[type=password] {
+        margin-top: 0;
+    }
+    
+    #user_type {
+        width: 25%;
+        padding: 10px 0;
+        padding-left: 12px;
+    }
+    
+    #submit {
+        width: 20%;
+        margin-right: 130px;
+        background-color: #c44569;
+        color: #fff;
+        padding-right: 3px;
+    }
+    
+    .form_design a {
+        text-decoration: none;
+        font-size: 11px;
+        color: #333;
+    }

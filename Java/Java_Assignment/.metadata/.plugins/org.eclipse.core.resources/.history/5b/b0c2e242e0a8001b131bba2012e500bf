@@ -1,0 +1,15 @@
+package assignment4;
+
+public class NSUTeachers extends Person implements Teacher {
+
+	@Override
+	public String teacherId() {
+		
+		return "NSUteacher: "+getNID();
+	}
+
+	
+	
+	
+
+}

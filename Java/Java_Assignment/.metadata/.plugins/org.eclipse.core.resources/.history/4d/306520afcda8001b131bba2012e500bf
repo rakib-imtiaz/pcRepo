@@ -1,0 +1,21 @@
+package assignment4;
+
+public class Runner {
+	
+public static void main(String[] args) {
+	
+	NSUer nsuer = new NSUer();
+	nsuer.setFullName("Ruhsafa Hque");
+	nsuer.setNID("12345678");
+	nsuer.setDateOfBirth("12/12/1990");
+	///nsuer.studentID();
+	
+	System.out.println(nsuer.studentID());
+	
+	
+}	
+	
+	
+	
+
+}

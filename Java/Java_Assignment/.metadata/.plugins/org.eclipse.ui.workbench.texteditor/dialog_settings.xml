@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="arrayint"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="arrayint"/>
+			<item value="BigInteger"/>
+			<item value="divint2"/>
+			<item value="divint1"/>
+			<item value="mulint2"/>
+			<item value="mulint1"/>
+			<item value="subint2"/>
+			<item value="subint1"/>
+			<item value="Integer"/>
+			<item value="addint2"/>
+			<item value="addint1"/>
+			<item value="num"/>
+			<item value="maxNum"/>
+			<item value="getpass"/>
+		</list>
+		<list key="replacehistory">
+			<item value="arraydec"/>
+			<item value="BigDecimal"/>
+			<item value="divdec2"/>
+			<item value="adddec2"/>
+			<item value="divdec1"/>
+			<item value="muldec2"/>
+			<item value="muldec1"/>
+			<item value="subdec2"/>
+			<item value="subdec1"/>
+			<item value="Decimal"/>
+			<item value="adddec1"/>
+			<item value="numbers"/>
+			<item value="minNum"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="862"/>
+		<item key="DIALOG_Y_ORIGIN" value="8"/>
+		<item key="DIALOG_WIDTH" value="348"/>
+		<item key="DIALOG_HEIGHT" value="437"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+</section>

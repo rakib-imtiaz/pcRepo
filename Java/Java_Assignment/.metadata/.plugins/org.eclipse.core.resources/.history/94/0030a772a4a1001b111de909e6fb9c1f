@@ -1,0 +1,24 @@
+package assignment3;
+
+public class PassportInfo {
+	
+	String passportNumber;
+	
+	
+	String firstName;
+	String lastName;
+	String nidNumber;
+	
+	public String getPassportNumber() {
+		return passportNumber;
+	}
+	private void setPassportNumber(String passportNumber) {
+		this.passportNumber = passportNumber;
+	}
+	
+	
+	
+	
+	
+
+}

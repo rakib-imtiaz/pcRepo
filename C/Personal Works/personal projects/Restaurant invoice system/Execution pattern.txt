@@ -1,0 +1,136 @@
+1.Admin Login
+2.Change password
+3.Exit
+1.
+............................
+Enter Admin-Id: noman
+password: 12345
+...........................
+Welcome Noman
+
+1.Start System
+2.Configure
+3.exit
+2
+...............................
+
+1.price editor
+2.Vat editor
+3.Add item(future)
+4.Delete Item(future)
+5.exit
+......................................
+Welcome Noman
+
+1.Start System
+2.Configure
+1.
+...................................................
+
+
+
+
+.............Welcome to NSU Restaurant.............
+
+......................Burgers......................
+
+1.Mini Chicken Burger...........................50/=                   
+2.Chicken Cheese Burger.........................70/=
+3.Mini Beef Regular............................ 80/=
+4.Crispy Chicken Patty Burger..................120/=
+5.Double Patty Double Cheese Burger............250/=
+
+......................SHAKES........................
+
+6.Cold Coffee...................................45/=
+7.Chocolate Cold Coffee.........................60/=
+8.Mango Milk Shake..............................70/=
+9.Kitkat Shake.................................110/=
+10.Oreo Shake..................................130/=
+
+...................Chicken Items....................
+
+11.Wings........................................150/=
+12.Chicken Lolipop..............................150/=
+13.BBQ Drumstick................................180/=
+
+
+Item No:1
+Mini Chicken Burger
+Quantity:4
+
+1.Continue
+2.Exit
+1
+Item No:3
+Mini Beef Burger
+Quantity:4
+
+1.Continue
+2.Exit
+2
+............................................
+
+
+1.View Details.
+2.Add Item.
+3.Delete Item.
+4.print
+(while(option!=4) use hobe)
+1.
+......................................
+
+
+
+
+1. Mini Chicken Burger.....50 x 4 =150
+2. Mini Beef Regular........80 x 4=320
+
+               Total:470
+print?(y/n)
+n
+..........................................
+
+1.View Details.
+2.Add Item.
+3.Delete Item.
+4.print
+(while(option!=4) use hobe)
+2.
+Item No:1
+Mini Chicken Burger
+Quantity:4
+
+1.Continue
+2.Exit
+2
+.......................................
+1.View Details.
+2.Add Item.
+3.Delete Item.
+4.print
+..............................................
+(printing)
+
+Discount(in percent):
+VAT(in percent):
+Tax(in percent):
+
+1. Mini Chicken Burger.....50 x 8 =400
+2. Mini Beef Regular........80 x 4=320
+
+               Total:720
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+package assignment3;
+
+public class PassportInfo {
+	
+	String passportNumber;
+	
+	String firstName;
+	String lastName;
+	String NIDNumber;
+`	
+	
+	
+	
+	
+
+}

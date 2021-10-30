@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=KoHo:wght@200&family=Raleway:wght@100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style2.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <div class="style_header">
+            <div class="container">
+                <div class="logo">
+                    <img src="img/ice_screenshot_20210517-180318.png" alt="Web Site Logo">
+                </div>
+                <div class="web_menu">
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="">doctor List</a>
+                            </li>
+                            <li>
+                                <a href="">medical blog</a>
+                            </li>
+                    
+                            <li>
+                                <a href=""><i class="fas fa-caret-down"></i><img src="img/2412363.png" alt="">Eng</a>
+                            </li>
+                            <li>
+                                <a href="" class="login_bar">login</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section>
+        <div class="form_and_other">
+            <div class="container">
+                <div class="contant_left">
+                    <div class="form_images">
+                        <img src="img/appointmnet.svg" alt="">
+                    </div>
+                </div>
+                <div class="contant_right">
+                    <div class="appointment_form">
+                        <form action="">
+                            <div class="form_title">
+                                <h2>Appoint a Doctor</h2>
+                            </div>
+                            <div class="form_design">
+                                <input type="text" placeholder="Patients Name *" required>
+                            </div>
+                            <div class="form_design">
+                                <input type="number" placeholder="Age" class="age">
+                                <input type="text" placeholder="DD-MM-YYY" id="date">
+                            </div>
+                            <div class="form_design">
+                                <label id="gander">Gender</label>
+                                <input type="radio" id="male" name="gander">
+                                <label for="male">Male</label>
+                                <input type="radio" id="female" name="gander">
+                                <label for="female">Female</label>
+                            </div>
+                            <div class="form_design">
+                                <input type="password" placeholder="Password" pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$" title="Please include atleast 1 uppercase character, 1 lowercase character, 1 digit and 1 special character" required>
+                            </div>
+                            <div class="form_design">
+                                <input type="text" placeholder="Select Doctor * " required>
+                            </div>
+                            <div class="form_design">
+                                <input type="radio" id="video_call">
+                                <label for="video_call">Live Video Call</label>
+                                <input type="radio" id="chamber">
+                                <label for="chamber">Chamber</label>
+                            </div>
+                            <div class="form_design">
+                                <select name="" id="">
+                                    <option value="Select one*">Select one</option>
+                                    <option value="">Admin</option>
+                                    <option value="Pattitent">Pattitent</option>
+                                    
+                                </select>
+                            </div>
+                            <div class="form_design">
+                                <input type="radio" id="new" name="patient">
+                                <label for="new">New</label>
+                                <input type="radio" id="old" name="gander">
+                                <label for="old">OLd</label>
+                            </div>
+                            <div class="form_design">
+                                <input type="text" placeholder="Address *" id="address" required>
+                            </div>
+                            <div class="form_design">
+                                <input type="submit" value="Get Appointment" id="Get_Appointment">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <script src="https://kit.fontawesome.com/1caaa6ceff.js" crossorigin="anonymous"></script>
+</body>
+
+</html>

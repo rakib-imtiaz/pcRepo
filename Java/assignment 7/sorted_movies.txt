@@ -1,0 +1,46 @@
+Movie Name: Graffiti Bridge
+Release Date: 20/02/2021,
+Rating :0,
+Genre : Drama|Musical]Movie Name: S.F.W.
+Release Date: 24/02/2021,
+Rating :5,
+Genre : Drama]Movie Name: "Count Dracula (Nachts wenn Dracula erwacht)"
+Release Date: 25/05/2018,
+Rating :11,
+Genre : Horror|Mystery]Movie Name: Still Breathing
+Release Date: 26/12/2019,
+Rating :11,
+Genre : Comedy|Romance]Movie Name: Asylum
+Release Date: 02/12/2017,
+Rating :15,
+Genre : Horror]Movie Name: Everyday People
+Release Date: 01/11/2020,
+Rating :17,
+Genre : Drama]Movie Name: "World Without Thieves A (Tian xia wu zei)"
+Release Date: 13/06/2017,
+Rating :25,
+Genre : Action|Crime|Drama]Movie Name: Warriors (Guerreros)
+Release Date: 01/05/2019,
+Rating :55,
+Genre : Adventure|Drama|War]Movie Name: After the Thin Man
+Release Date: 11/08/2016,
+Rating :69,
+Genre : Comedy|Crime|Mystery|Romance]Movie Name: What If
+Release Date: 18/07/2020,
+Rating :73,
+Genre : Comedy|Drama|Romance]Movie Name: "Other Side of Midnight  The"
+Release Date: 10/12/2020,
+Rating :79,
+Genre : Drama|Romance|Thriller]Movie Name: Ceremony
+Release Date: 20/10/2017,
+Rating :83,
+Genre : Comedy]Movie Name: Invitation to a Gunfighter
+Release Date: 02/12/2017,
+Rating :92,
+Genre : Action|Western]Movie Name: Gate of Hell (Jigokumon)
+Release Date: 05/10/2016,
+Rating :95,
+Genre : Drama|Romance]Movie Name: Children of the Corn V: Fields of Terror
+Release Date: 20/06/2019,
+Rating :100,
+Genre : Horror|Thriller]

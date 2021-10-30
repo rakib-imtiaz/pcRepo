@@ -1,0 +1,18 @@
+package assignment4;
+
+public class NSUStaff extends Person implements Student,Teacher {
+
+	@Override
+	public String teacherId() {
+		return "NSU_teacher: "+super.getNID();
+	}
+
+	@Override
+	public String studentID() {
+		// TODO Auto-generated method stub
+		return "NSUteacher: "+ super.getNID();
+	}
+
+	
+
+}

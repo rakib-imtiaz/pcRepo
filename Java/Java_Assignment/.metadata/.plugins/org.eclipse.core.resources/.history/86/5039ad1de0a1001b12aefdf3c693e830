@@ -1,0 +1,33 @@
+package assignment3;
+
+public class PassportInfo {
+	
+	String passportNumber;
+	private String firstName;
+	private String lastName;
+	private String nidNumber;
+	
+	public String getPassportNumber() {
+		
+		
+		
+		
+		return passportNumber;
+	}
+	private void setPassportNumber(String passportNumber) {
+		this.passportNumber = passportNumber;
+	}
+	
+	 private static String[] allPassportNumbers;
+	 
+	 static {
+	  allPassportNumbers = new String[100];
+	  
+	  
+   }
+	
+	
+	
+	
+
+}

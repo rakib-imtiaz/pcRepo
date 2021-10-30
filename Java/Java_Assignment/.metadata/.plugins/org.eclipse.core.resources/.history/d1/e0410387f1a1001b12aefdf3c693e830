@@ -1,0 +1,38 @@
+package assignment3;
+
+import java.util.Random;
+import java.util.stream.IntStream;
+
+public class main {
+	public static void main(String[] args) {
+
+		String s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+		char[] capitalLetter = s.toCharArray();
+
+		Random r = new Ranmadom();
+		int low = 1;
+		int high = 26;
+
+		int randomNumber1 = r.nextInt(high - low) + low;
+		int randomNumber2 = r.nextInt(high - low) + low;
+
+		char first=capitalLetter[randomNumber1];
+		char second=capitalLetter[randomNumber2];
+		
+		low=1;
+		high=9999999;
+		int randomNumber3 = r.nextInt(high - low) + low;
+
+		StringBuffer passportNumber= new StringBuffer();
+		passportNumber.append(first);
+		passportNumber.append(second);
+		passportNumber.append(randomNumber3);
+		
+		System.out.println(passportNumber);
+		
+		
+		
+
+	}
+}

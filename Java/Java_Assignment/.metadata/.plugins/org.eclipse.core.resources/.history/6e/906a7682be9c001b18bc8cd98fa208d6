@@ -1,0 +1,40 @@
+
+public class Mango extends Fruit {
+	
+	private String propagation;
+
+	public String getPropagation() {
+		return propagation;
+	}
+
+	public void setPropagation(String propagation) {
+		this.propagation = propagation;
+	}
+	
+	
+	@Override
+	public void setSeason(String season) {
+		// TODO Auto-generated method stub
+		super.setSeason(season);
+	}
+	
+	@Override
+	public String getSeason() {
+		// TODO Auto-generated method stub
+		return super.getSeason();
+	}
+	
+	
+
+	@Override
+	public String toString() {
+		return "Mango [propagation=" + propagation + ", getPropagation()=" + getPropagation() + ", getColor()="
+				+ getColor() + ", getSeed()=" + getSeed() + ", getSeason()=" + getSeason() + ", getClass()="
+				+ getClass() + ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
+	}
+	
+	
+	
+	
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;Paid Assignments Online/src/assignment34&apos;&#x0A;- Original project: &apos;java assignment&apos;&#x0A;- Destination element: &apos;Paid Assignments Online/src/assignment34&apos;&#x0A;- Original elements:&#x0A;     ShapeDriver_1912488.java&#x0A;     Rectangle_1912488.java&#x0A;     Square_1912488.java&#x0A;     Shape_1912488.java" description="Copy compilation units" destination="=Paid Assignments Online/src&lt;assignment34" element1="/src&lt;{ShapeDriver_1912488.java" element2="/src&lt;{Rectangle_1912488.java" element3="/src&lt;{Square_1912488.java" element4="/src&lt;{Shape_1912488.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1619212592425" units="4" version="1.0"/>
+</session>

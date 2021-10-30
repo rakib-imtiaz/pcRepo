@@ -1,0 +1,29 @@
+package assignment3;
+
+import java.util.ArrayList;
+import java.util.Random;
+import java.util.stream.IntStream;
+
+public class main {
+	public static void main(String[] args) {
+		
+		
+		Assignment03_1912488_PassportInfo info = new Assignment03_1912488_PassportInfo();
+		
+		System.out.println(Assignment03_1912488_PassportInfo.Builder());
+		
+		
+		
+		
+
+//		ArrayList<Assignment03_1912488_PassportInfo> list = new ArrayList<Assignment03_1912488_PassportInfo>();// Creating arraylist
+//
+//
+//		for (int i = 0; i < 15; i++) {
+//			
+//			
+//
+//		}
+
+	}
+}

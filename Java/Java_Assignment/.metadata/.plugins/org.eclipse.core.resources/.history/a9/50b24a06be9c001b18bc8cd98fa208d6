@@ -1,0 +1,30 @@
+
+public class Apple extends Fruit {
+	
+	String varieties;
+	
+	@Override
+	public void setSeason(String season) {
+		// TODO Auto-generated method stub
+		super.setSeason(WINTER);
+	}
+
+	@Override
+	public String toString() {
+		return "Apple [varieties=" + varieties + ", getColor()=" + getColor() + ", getSeed()=" + getSeed()
+				+ ", getSeason()=" + getSeason() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode()
+				+ ", toString()=" + super.toString() + "]";
+	}
+
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+}

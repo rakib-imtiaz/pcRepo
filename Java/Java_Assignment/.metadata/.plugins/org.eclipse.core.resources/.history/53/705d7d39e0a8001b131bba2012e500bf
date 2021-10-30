@@ -1,0 +1,16 @@
+package assignment4;
+
+public class NSUer extends Person implements Student{
+
+	@Override
+	public String studentID() {
+	
+		
+		return"NSUer: "+super.getNID();
+	
+		
+		
+		
+	}
+
+}

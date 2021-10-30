@@ -1,0 +1,52 @@
+package homework_1;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import com.sun.tools.javac.util.List;
+
+public class CaseManupulation {
+
+	private String title;
+	private String briefDescription;
+
+	private int numOfPrimarySuspects;
+	private int numOfEvidence;
+
+	private boolean isCaseStatusActive;
+
+	private ArrayList<String> suspectList = new ArrayList<String>();
+
+	Scanner scan = new Scanner(System.in);
+
+	void addCase() {
+
+		System.out.println("Case Title :");
+		title = scan.next();
+
+		System.out.println("Breif Description(5 line max)");
+		briefDescription = scan.next();
+
+		System.out.println("Number of Primary Suspects");
+		numOfPrimarySuspects = scan.nextInt();
+		boolean choice;
+		
+		do {
+			if (numOfEvidence > 0) {
+				System.out.println("Add Suspect Name: ");
+				String name = scan.next();
+				suspectList.add(name);
+				System.out.println("Continue?1.yes\n2.no");
+				int d = scan.nextInt();
+				if (d == 1)
+					choice = true;
+
+			} else {
+
+				choice = false;
+			}
+		} while (choice);
+
+	}
+
+}

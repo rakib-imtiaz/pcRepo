@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1614387787 source:g:\c_programing_git\c programmings\personal works\personal projects\bkash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+
+1614387787 
+
+1630265293 source:/home/mohammad/Programming_Directory/C programings/c_programing_git/c programmings/Personal Works/personal projects/Bkash/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

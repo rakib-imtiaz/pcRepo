@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629712723 source:/home/mohammad/Desktop/projects/PlayList Project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

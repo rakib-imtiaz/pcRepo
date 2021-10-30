@@ -1,0 +1,64 @@
+import java.util.Scanner;
+
+public class ShapeDriver {
+	
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+
+		
+		System.out.println("Enter the color of Shape");
+		String color=scan.next();
+		
+		System.out.println("Is the Square filled? True or false?\n");
+		boolean bool=scan.hasNext();
+		
+		Shape shape = new Shape(bool,color);
+		
+		
+		System.out.println("Enter the color of Rectangle");
+		color=scan.next();
+		
+		System.out.println("Is the Square filled? True or false?\n");
+		bool=scan.hasNext();
+		
+		System.out.println("Length: ");
+		double length=scan.nextDouble();
+		
+		System.out.println("Width: ");
+		double width=scan.nextDouble();
+			
+		Rectangle rectangle = new Rectangle(bool,color,length,width);
+		
+		System.out.println("Enter Square Color : ");
+		
+
+		System.out.println("Enter the color of square");
+		color=scan.next();
+		
+		System.out.println("Is the Square filled? True or false?\n");
+		bool=scan.hasNext();
+		
+		System.out.println("Length of Side");
+		length=scan.nextDouble();
+		
+		
+		Square square = new Square(bool,color,length);
+		
+		
+		System.out.println(shape);
+		System.out.println(rectangle);
+		System.out.println(square);
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println("Area of the square with side length of " +square.length + " is : " +square.getArea() );
+		System.out.println("Area of the Rectangle  with side lengths of " +rectangle.length +" and "+rectangle.width+ " is : " +rectangle.getArea() );
+		System.out.println("perimeter of the square with side length of " +square.length + " is : " +square.getPerimeter() );
+		System.out.println("perimeter of the square  with side lengths of " +rectangle.length +" and "+rectangle.width+ " is : " +rectangle.getPerimeter() );
+		
+		
+		
+	}
+
+}

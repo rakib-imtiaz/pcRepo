@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597866231 source:e:\c programmings\personal projects\postfix infix converter\main.c
+	<stdio.h>
+	<stdlib.h>
+

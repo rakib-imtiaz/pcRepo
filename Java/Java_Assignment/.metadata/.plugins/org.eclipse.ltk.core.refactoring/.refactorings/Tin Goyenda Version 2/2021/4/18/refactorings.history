@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;homework_1.WelcomePage&apos; to &apos;CaseManagementSystem&apos;&#x0A;- Original project: &apos;Tin Goyenda Version 2&apos;&#x0A;- Original element: &apos;homework_1.WelcomePage&apos;&#x0A;- Renamed element: &apos;homework_1.CaseManagementSystem&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;WelcomePage&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;homework_1{WelcomePage.java[WelcomePage" matchStrategy="1" name="CaseManagementSystem" qualified="false" references="true" similarDeclarations="false" stamp="1619326471170" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627856083 source:/home/mohammad/Desktop/projects/Mortgage Calculator/main.c
+	<stdio.h>
+	<math.h>
+

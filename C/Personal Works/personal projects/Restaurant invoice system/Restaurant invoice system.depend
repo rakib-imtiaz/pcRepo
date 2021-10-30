@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599699539 source:e:\c programmings\personal projects\restaurant invoice system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1599699539 
+
+1627287097 source:/home/mohammad/Programming_Directory/C programings/c_programing_git/c programmings/Personal Works/personal projects/Restaurant invoice system/main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+package assignment3;
+
+public class Picture {
+	
+	int red;
+	int green;
+	int blue;
+	
+	
+
+}

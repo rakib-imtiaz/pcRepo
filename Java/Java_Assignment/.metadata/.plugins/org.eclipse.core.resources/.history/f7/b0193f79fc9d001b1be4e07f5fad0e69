@@ -1,0 +1,14 @@
+
+public class Rectangle extends Shape{
+	
+	protected double lenght;
+	protected double width;
+	
+	public Rectangle(boolean filled,String color,double length,double width)
+	{
+		
+		
+	}
+	
+
+}

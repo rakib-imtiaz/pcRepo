@@ -1,0 +1,51 @@
+package assignment3;
+
+import java.util.Random;
+
+public class Assignment03_1912488_Assignment03_DateOfBirth {
+	private int date;
+	private int month;
+	private int year;
+	
+	static String getDateofBirth()
+	{
+		Random year = new Random();
+		int low = 1940;
+		int high = 2000;
+		int years = year.nextInt(high - low) + low;
+
+		Random month = new Random();
+		 low = 1;
+		 high = 12;
+		 int months = month.nextInt(high - low) + low;
+		
+		Random day = new Random();
+		 low = 1;
+		 high = 31;
+		 int days = day.nextInt(high - low) + low;
+		 
+		 StringBuffer dob = new StringBuffer();		
+		 
+		 dob.append(days);
+		 dob.append("/");
+		 dob.append(months);
+		 dob.append(days);
+		 dob.append("/");
+		 dob.append(years);
+		 
+		 String dateOfBirth= new String(dob); 
+		
+		
+		
+		
+		return dateOfBirth;
+		
+		
+	}
+	
+	
+	
+	
+	
+
+}

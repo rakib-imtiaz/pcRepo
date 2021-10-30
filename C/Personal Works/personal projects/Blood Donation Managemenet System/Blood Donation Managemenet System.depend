@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614388426 source:c:\users\shous\onedrive\desktop\important desktop files\c programmings\personal works\personal projects\blood donation managemenet system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
