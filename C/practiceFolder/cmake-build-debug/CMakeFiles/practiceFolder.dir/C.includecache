@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mohammad/programming Directory/C/practiceFolder/dad/main.c
+stdio.h
+-
+stdlib.h
+-
+
+/home/mohammad/programming Directory/C/practiceFolder/das/main.c
+stdio.h
+-
+stdlib.h
+-
+
+/home/mohammad/programming Directory/C/practiceFolder/notes/main.c
+stdio.h
+-
+stdlib.h
+-
+
+/home/mohammad/programming Directory/C/practiceFolder/welcomeBackBuddy/main.c
+stdio.h
+-
+stdlib.h
+-
+

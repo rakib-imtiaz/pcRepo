@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/practiceFolder.dir/dad/main.c.o CMakeFiles/practiceFolder.dir/das/main.c.o CMakeFiles/practiceFolder.dir/notes/main.c.o CMakeFiles/practiceFolder.dir/welcomeBackBuddy/main.c.o -o practiceFolder 
