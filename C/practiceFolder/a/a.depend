@@ -1,4 +1,20 @@
 # depslib dependency file v1.0
-1636168700 source:/home/mohammad/programming Directory/C/practiceFolder/a/main.c
+1641819532 source:/home/mohammad/programming Directory/C/practiceFolder/a/main.c
 	<stdio.h>
+	<string.h>
+
+1637062982 source:/home/mohammad/programming Directory/C/practiceFolder/a/main.cpp
+	<iostream>
+	"UnsortedType.cpp"
+
+1637063129 /home/mohammad/programming Directory/C/practiceFolder/a/UnsortedType.cpp
+	"UnsortedType.h"
+	"UnsortedType.h"
+
+1637062972 /home/mohammad/programming Directory/C/practiceFolder/a/UnsortedType.h
+	<iostream>
+
+1637063129 source:/home/mohammad/programming Directory/C/practiceFolder/a/UnsortedType.cpp
+	"UnsortedType.h"
+	"UnsortedType.h"
 

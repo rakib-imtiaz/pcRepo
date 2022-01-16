@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639806668 source:/home/mohammad/programming Directory/C/practiceFolder/fasfa/main.c
+	<stdio.h>
+	<stdlib.h>
+

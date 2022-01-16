@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637425836 source:/home/mohammad/programming Directory/C/practiceFolder/dads/main.c
+	<stdio.h>
+	<math.h>
+

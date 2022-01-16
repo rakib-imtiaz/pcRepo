@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639115345 source:/home/mohammad/programming Directory/C/practiceFolder/sdsa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

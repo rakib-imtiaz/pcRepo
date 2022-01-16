@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640796583 source:/home/mohammad/programming Directory/C/practiceFolder/agh/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

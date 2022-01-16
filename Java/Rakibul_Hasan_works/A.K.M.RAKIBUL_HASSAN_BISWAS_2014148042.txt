@@ -1,0 +1,2 @@
+Biswas,2,0,Nuclear,2500.0,MBBS,12,Dr.Shaista Lodhi,125000.0,percutaneous Transforaminal endoscopic disc surgeries
+chowdhury,2,0,joint,5500.0,Ph.D,10,Dr. H. S. Chhabra,62500.0,Cardiothoracic  & Vascular Surgery

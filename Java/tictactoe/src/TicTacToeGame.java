@@ -31,8 +31,17 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 		winner = "";
 
 		// create the players
-		player1 = new Player('x', "shoumik");
-		player2 = new Player('o', "Noman");
+
+		String player1Name = JOptionPane.showInputDialog(null, "Player 1 Name : ");
+		String player1sign = JOptionPane.showInputDialog(null, "x or o ? ", "x");
+
+		String player2Name = JOptionPane.showInputDialog(null, "Player 2 Name : ", "Your name");
+		String player2sign = JOptionPane.showInputDialog(null, "x or o ? ", "o");
+
+		char sign1[] = player1sign.toCharArray();
+		char sign2[] = player2sign.toCharArray();
+		player1 = new Player(sign1[0], player1Name);
+		player2 = new Player(sign2[0], player2Name);
 
 		// create the 2 dimensional grid of boxes
 		boxes = new Box[3][3];
@@ -58,25 +67,20 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 	// Does: Clears the board and sets it up for a new game
 
 	public void reset() {
-		
-		// set gameover false
-	
 
+		// set gameover false
 
 		for (int r = 0; r < 3; r++) {
-			
-			
+
 			for (int c = 0; c < 3; c++) {
 				boxes[r][c].erase();
 			}
-		}	
+		}
 		gameOver = false;
 		repaint();
-		winner=" ";
-
+		winner = " ";
 
 		// erase each box
-
 
 	}
 
@@ -99,11 +103,9 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 
 		if (x > 0 && x < 100) {
 			col = 0;
-		}
-		else if (x > 100 && x < 200) {
+		} else if (x > 100 && x < 200) {
 			col = 1;
-		} 
-		else if (x > 200 && x < 300) {
+		} else if (x > 200 && x < 300) {
 			col = 2;
 		}
 
@@ -113,12 +115,10 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 		if (y > 100 && y < 200) {
 			row = 1;
 		}
-		
+
 		if (y > 200 && y < 300) {
 			row = 2;
 		}
-		
-
 
 		// fill in corresponding box
 
@@ -148,9 +148,9 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 	// Ends the game and returns whether someone won
 
 	public boolean checkRowWin() {
-	
-	if (!boxes[0][0].isEmpty() && boxes[0][0].getSymbol() == boxes[0][1].getSymbol()
-			&& boxes[0][1].getSymbol() == boxes[0][2].getSymbol() ){
+
+		if (!boxes[0][0].isEmpty() && boxes[0][0].getSymbol() == boxes[0][1].getSymbol()
+				&& boxes[0][1].getSymbol() == boxes[0][2].getSymbol()) {
 
 			if (boxes[0][0].getSymbol() == player1.getSymbol())
 
@@ -162,9 +162,8 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 				winner = player2.getName();
 			}
 			gameOver = true;
-		}
-	else if (!boxes[1][0].isEmpty() && boxes[01][0].getSymbol() == boxes[1][1].getSymbol()
-			&& boxes[1][1].getSymbol() == boxes[1][2].getSymbol() ){
+		} else if (!boxes[1][0].isEmpty() && boxes[01][0].getSymbol() == boxes[1][1].getSymbol()
+				&& boxes[1][1].getSymbol() == boxes[1][2].getSymbol()) {
 
 			if (boxes[1][0].getSymbol() == player1.getSymbol())
 
@@ -177,9 +176,9 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 			}
 			gameOver = true;
 		}
-	
-	else if (!boxes[2][0].isEmpty() && boxes[2][0].getSymbol() == boxes[2][1].getSymbol()
-			&& boxes[2][1].getSymbol() == boxes[2][2].getSymbol() ){
+
+		else if (!boxes[2][0].isEmpty() && boxes[2][0].getSymbol() == boxes[2][1].getSymbol()
+				&& boxes[2][1].getSymbol() == boxes[2][2].getSymbol()) {
 
 			if (boxes[2][0].getSymbol() == player1.getSymbol())
 
@@ -193,7 +192,6 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 			gameOver = true;
 		}
 
-
 		return false;
 
 	}
@@ -206,57 +204,53 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 	// Increments the player's wins if someone won
 	// Ends the game and returns whether someone won
 	public boolean checkColWin() {
-		
-		
+
 		if (!boxes[0][0].isEmpty() && boxes[0][0].getSymbol() == boxes[1][0].getSymbol()
-				&& boxes[1][0].getSymbol() == boxes[2][0].getSymbol() ){
+				&& boxes[1][0].getSymbol() == boxes[2][0].getSymbol()) {
 
-				if (boxes[0][0].getSymbol() == player1.getSymbol())
+			if (boxes[0][0].getSymbol() == player1.getSymbol())
 
-				{
-					player1.addWin();
-					winner = player1.getName();
-				} else {
-					player2.addWin();
-					winner = player2.getName();
-				}
-				gameOver = true;
+			{
+				player1.addWin();
+				winner = player1.getName();
+			} else {
+				player2.addWin();
+				winner = player2.getName();
 			}
-		else if (!boxes[0][1].isEmpty() && boxes[0][1].getSymbol() == boxes[1][1].getSymbol()
-				&& boxes[1][1].getSymbol() == boxes[2][1].getSymbol() ){
+			gameOver = true;
+		} else if (!boxes[0][1].isEmpty() && boxes[0][1].getSymbol() == boxes[1][1].getSymbol()
+				&& boxes[1][1].getSymbol() == boxes[2][1].getSymbol()) {
 
-				if (boxes[0][1].getSymbol() == player1.getSymbol())
+			if (boxes[0][1].getSymbol() == player1.getSymbol())
 
-				{
-					player1.addWin();
-					winner = player1.getName();
-				} else {
-					player2.addWin();
-					winner = player2.getName();
-				}
-				gameOver = true;
+			{
+				player1.addWin();
+				winner = player1.getName();
+			} else {
+				player2.addWin();
+				winner = player2.getName();
 			}
-		
-		else if (!boxes[0][2].isEmpty() && boxes[0][2].getSymbol() == boxes[1][2].getSymbol()
-				&& boxes[1][2].getSymbol() == boxes[2][2].getSymbol() ){
-
-				if (boxes[0][2].getSymbol() == player1.getSymbol())
-
-				{
-					player1.addWin();
-					winner = player1.getName();
-				} else {
-					player2.addWin();
-					winner = player2.getName();
-				}
-				gameOver = true;
-			}
-
-
-			return false;
-
+			gameOver = true;
 		}
-	
+
+		else if (!boxes[0][2].isEmpty() && boxes[0][2].getSymbol() == boxes[1][2].getSymbol()
+				&& boxes[1][2].getSymbol() == boxes[2][2].getSymbol()) {
+
+			if (boxes[0][2].getSymbol() == player1.getSymbol())
+
+			{
+				player1.addWin();
+				winner = player1.getName();
+			} else {
+				player2.addWin();
+				winner = player2.getName();
+			}
+			gameOver = true;
+		}
+
+		return false;
+
+	}
 
 	////////////////////////////////////////////////////
 	// Title: checkDiagWin
@@ -266,44 +260,35 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 	// Increments the player's wins if someone won
 	// Ends the game and returns whether someone won
 	public boolean checkDiagWin() {
-		
-		
-		
+
 		if (!boxes[0][0].isEmpty() && boxes[0][0].getSymbol() == boxes[1][1].getSymbol()
-				&& boxes[1][1].getSymbol() == boxes[2][2].getSymbol() )
-		{
+				&& boxes[1][1].getSymbol() == boxes[2][2].getSymbol()) {
 
-				if (boxes[0][0].getSymbol() == player1.getSymbol())
+			if (boxes[0][0].getSymbol() == player1.getSymbol())
 
-				{
-					player1.addWin();
-					winner = player1.getName();
-				} else {
-					player2.addWin();
-					winner = player2.getName();
-				}
-				gameOver = true;
+			{
+				player1.addWin();
+				winner = player1.getName();
+			} else {
+				player2.addWin();
+				winner = player2.getName();
 			}
-		else if (!boxes[0][2].isEmpty() && boxes[0][2].getSymbol() == boxes[1][1].getSymbol()
-				&& boxes[1][1].getSymbol() == boxes[2][0].getSymbol() ){
+			gameOver = true;
+		} else if (!boxes[0][2].isEmpty() && boxes[0][2].getSymbol() == boxes[1][1].getSymbol()
+				&& boxes[1][1].getSymbol() == boxes[2][0].getSymbol()) {
 
-				if (boxes[0][2].getSymbol() == player1.getSymbol())
+			if (boxes[0][2].getSymbol() == player1.getSymbol())
 
-				{
-					player1.addWin();
-					winner = player1.getName();
-				} else {
-					player2.addWin();
-					winner = player2.getName();
-				}
-				gameOver = true;
+			{
+				player1.addWin();
+				winner = player1.getName();
+			} else {
+				player2.addWin();
+				winner = player2.getName();
 			}
+			gameOver = true;
+		}
 
-		
-		
-		
-		
-		
 		return false;
 
 	}
@@ -316,38 +301,29 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 	// Ends the game and increments draw if there is one
 	// And returns wether the game is a draw
 	public boolean checkDraw() {
-	boolean draw=true;
-		
-			for(int i=0;i<3;i++)
-			{
-				for(int j=0;j<3;j++)
-				{
-					if(boxes[i][j].isEmpty())
-					{
-						draw=false;
-						break;
-					}
-					else {
-						continue;						
-					}
-					
+		boolean draw = true;
+
+		for (int i = 0; i < 3; i++) {
+			for (int j = 0; j < 3; j++) {
+				if (boxes[i][j].isEmpty()) {
+					draw = false;
+					break;
+				} else {
+					continue;
 				}
-				
+
 			}
-			
-			
-		
-		
-		if(draw)
-		{
+
+		}
+
+		if (draw) {
 			numDraws++;
 
-			gameOver=true;
-			winner="NO WINNER";
-			
+			gameOver = true;
+			winner = "NO WINNER";
+
 		}
-		
-				
+
 		return false;
 
 	}
@@ -358,7 +334,7 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 	// Input: Graphics object
 	// Returns: nothing
 	// Does: Paints the board to the screen
-	
+
 	public void paint(Graphics g) {
 		g.setColor(Color.WHITE);
 		g.fillRect(0, 0, 600, 600);
@@ -374,10 +350,10 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 		for (int r = 0; r < 3; r++) {
 			for (int c = 0; c < 3; c++) {
 				Box next = boxes[r][c];
-				
+
 				int x = c * 100 + 10;
 				int y = r * 100 + 10;
-				
+
 				if (!next.isEmpty()) {
 					if (next.getSymbol() == 'x') {
 						g.drawLine(x, y, x + 80, y + 80);
@@ -394,23 +370,21 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 		if (!gameOver) {
 			gameStatus = "Game In Progress";
 		}
-		
+
 		else {
 			gameStatus = "Game Ended - Result: " + winner;
 		}
 		String tally1 = "Player 1 Wins (" + player1.getName() + "): " + player1.getWins();
 		String tally2 = "Player 2 Wins (" + player2.getName() + "): " + player2.getWins();
 
-		String draw = "Draw  : " +numDraws;
+		String draw = "Draw  : " + numDraws;
 		String currentTurn = "Current Turn: " + turn;
-
 
 		g.drawString(gameStatus, 100, 315);
 		g.drawString(tally1, 100, 330);
 		g.drawString(tally2, 100, 345);
 		g.drawString(currentTurn, 100, 360);
 		g.drawString(draw, 100, 380);
-
 
 	}
 
@@ -442,15 +416,14 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 			reset();
 		}
 	}
-	
-	static void  initalise()
-	{
+
+	static void initalise() {
 		frame = new JFrame("Tic Tac Toe");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setLocationRelativeTo(null);
-	//	frame.setSize(318, 430);
+		// frame.setSize(318, 430);
 		frame.setLocation(0, 0);
-		frame.setBounds(525,170,318,430);
+		frame.setBounds(525, 170, 318, 430);
 
 		TicTacToeGame board = new TicTacToeGame();
 		frame.addMouseListener(board);
@@ -460,7 +433,7 @@ public class TicTacToeGame extends JPanel implements MouseListener, ActionListen
 
 	public static void main(String[] arg) {
 		initalise();
-		
+
 	}
 
 }

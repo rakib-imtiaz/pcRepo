@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640356815 source:/home/mohammad/programming Directory/C/practiceFolder/asdfghj/main.c
+	<stdio.h>
+	<stdlib.h>
+

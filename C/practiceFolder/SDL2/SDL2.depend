@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1607263556 source:/home/mohammad/programming Directory/C/practiceFolder/SDL2/displayfull.c
+	"displayfull.h"
+
+1607263566 /home/mohammad/programming Directory/C/practiceFolder/SDL2/displayfull.h
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1607263558 source:/home/mohammad/programming Directory/C/practiceFolder/SDL2/sketch.c
+	"displayfull.h"
+	"sketch.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1638944808 /home/mohammad/programming Directory/C/practiceFolder/SDL2/sketch.h
+
+1638910611 source:/home/mohammad/programming Directory/C/practiceFolder/SDL2/test.c
+	"displayfull.h"
+	"sketch.h"
+

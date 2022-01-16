@@ -1,0 +1,6 @@
+Name: Tanisha Islam       ID :1931811643          HomeTown : rongpur  
+Fall'21 Courses: 
+Code    Name            		  credit          section     faculty
+cse115	 programing language1 		3 	 		3	tns1
+Cse215	 programing language2 		3 	 		4	sds
+Cse174	 Discreate mathematic		3 			3	msk1 	

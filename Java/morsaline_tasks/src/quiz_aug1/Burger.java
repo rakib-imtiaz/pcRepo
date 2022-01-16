@@ -1,3 +1,5 @@
+package quiz_aug1;
+
 
 public class Burger {
 	private String burgerSize;

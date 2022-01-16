@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641883684 source:/home/mohammad/programming Directory/C/practiceFolder/finalFive/main.c
+	<stdio.h>
+	<string.h>
+
