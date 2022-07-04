@@ -1,0 +1,470 @@
+[1;33mDATE AND TIME DETAILS: [0m
+
+রবিবার 13 মার্চ 2022 02:45:41 পূর্বাহ্ণ +06
+
+
+[0;31mCurrent Users : 
+ [0m
+
+
+mohammad :0           2022-03-12 03:13 (:0)
+
+
+[0;31mCurrent Processess : 
+
+
+[0mUSER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 167944  9532 ?        Ss   মার্চ12   0:04 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [kworker/0:0H-events_highpri]
+root           9  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [rcu_tasks_rude_]
+root          11  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [rcu_tasks_trace]
+root          12  0.0  0.0      0     0 ?        S    মার্চ12   0:01 [ksoftirqd/0]
+root          13  0.0  0.0      0     0 ?        I    মার্চ12   1:22 [rcu_sched]
+root          14  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [migration/0]
+root          15  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [idle_inject/0]
+root          16  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [cpuhp/0]
+root          17  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [cpuhp/1]
+root          18  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [idle_inject/1]
+root          19  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [migration/1]
+root          20  0.3  0.0      0     0 ?        S    মার্চ12   4:29 [ksoftirqd/1]
+root          22  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [kworker/1:0H-events_highpri]
+root          23  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [cpuhp/2]
+root          24  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [idle_inject/2]
+root          25  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [migration/2]
+root          26  0.0  0.0      0     0 ?        S    মার্চ12   0:01 [ksoftirqd/2]
+root          28  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [kworker/2:0H-events_highpri]
+root          29  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [cpuhp/3]
+root          30  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [idle_inject/3]
+root          31  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [migration/3]
+root          32  0.0  0.0      0     0 ?        S    মার্চ12   0:02 [ksoftirqd/3]
+root          34  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [kworker/3:0H-events_highpri]
+root          35  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [kdevtmpfs]
+root          36  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [netns]
+root          37  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [inet_frag_wq]
+root          38  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [kauditd]
+root          39  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [khungtaskd]
+root          40  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [oom_reaper]
+root          41  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [writeback]
+root          42  0.0  0.0      0     0 ?        S    মার্চ12   0:13 [kcompactd0]
+root          43  0.0  0.0      0     0 ?        SN   মার্চ12   0:00 [ksmd]
+root          44  0.0  0.0      0     0 ?        SN   মার্চ12   0:00 [khugepaged]
+root          91  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [kintegrityd]
+root          92  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [kblockd]
+root          93  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [blkcg_punt_bio]
+root          95  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [tpm_dev_wq]
+root          97  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [ata_sff]
+root          98  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [md]
+root          99  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [edac-poller]
+root         100  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [devfreq_wq]
+root         101  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [watchdogd]
+root         104  0.0  0.0      0     0 ?        I<   মার্চ12   0:07 [kworker/2:1H-events_highpri]
+root         106  0.0  0.0      0     0 ?        S    মার্চ12   0:07 [kswapd0]
+root         107  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [ecryptfs-kthrea]
+root         109  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [kthrotld]
+root         110  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [irq/122-aerdrv]
+root         111  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [irq/123-aerdrv]
+root         112  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [acpi_thermal_pm]
+root         115  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [vfio-irqfd-clea]
+root         117  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [mld]
+root         118  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [ipv6_addrconf]
+root         122  0.0  0.0      0     0 ?        I<   মার্চ12   0:08 [kworker/0:1H-events_highpri]
+root         129  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [kstrp]
+root         132  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [zswap-shrink]
+root         138  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [charger_manager]
+root         161  0.0  0.0      0     0 ?        I<   মার্চ12   0:06 [kworker/3:1H-events_highpri]
+root         189  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [scsi_eh_0]
+root         191  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [scsi_tmf_0]
+root         192  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [scsi_eh_1]
+root         193  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [scsi_tmf_1]
+root         196  0.0  0.0      0     0 ?        S    মার্চ12   1:21 [irq/51-DELL0789]
+root         200  0.0  0.0      0     0 ?        I<   মার্চ12   0:06 [kworker/1:1H-events_highpri]
+root         202  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [rmi4-poller]
+root         203  0.0  0.0      0     0 ?        S    মার্চ12   0:27 [irq/127-i2c_hid]
+root         230  0.0  0.0      0     0 ?        S    মার্চ12   0:01 [jbd2/sdb1-8]
+root         231  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [ext4-rsv-conver]
+root         275  0.0  0.3  78100 28112 ?        S<s  মার্চ12   0:05 /lib/systemd/systemd-journald
+root         300  0.0  0.0  24124  5568 ?        Ss   মার্চ12   0:01 /lib/systemd/systemd-udevd
+root         305  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop0]
+root         315  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop1]
+root         316  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop2]
+root         317  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop3]
+root         323  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop4]
+root         325  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop5]
+root         330  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop6]
+root         332  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop7]
+root         343  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop8]
+root         367  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop9]
+root         372  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop10]
+root         373  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop11]
+root         374  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop12]
+root         375  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop13]
+root         377  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop14]
+root         387  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop15]
+root         405  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [irq/133-mei_me]
+root         415  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop16]
+root         422  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [cfg80211]
+root         435  0.3  0.0      0     0 ?        S    মার্চ12   5:13 [irq/134-iwlwifi]
+root         436  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop17]
+root         447  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [cryptd]
+root         458  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop18]
+root         489  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [kmemstick]
+root         490  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop19]
+root         502  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop20]
+root         504  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop21]
+root         511  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop22]
+root         518  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [card0-crtc0]
+root         519  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [card0-crtc1]
+root         520  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [card0-crtc2]
+root         521  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop23]
+root         529  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop24]
+root         534  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop25]
+root         559  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop26]
+root         573  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop27]
+root         586  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop28]
+root         596  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop29]
+root         597  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [loop30]
+root         836  0.0  0.0      0     0 ?        S    মার্চ12   0:06 [jbd2/sdb5-8]
+root         837  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [ext4-rsv-conver]
+systemd+     867  0.0  0.1  24660 10708 ?        Ss   মার্চ12   0:06 /lib/systemd/systemd-resolved
+systemd+     869  0.0  0.0  90220  4208 ?        Ssl  মার্চ12   0:00 /lib/systemd/systemd-timesyncd
+root         928  0.0  0.0 238768  7160 ?        Ssl  মার্চ12   0:02 /usr/lib/accountsservice/accounts-daemon
+root         929  0.0  0.0   2548   640 ?        Ss   মার্চ12   0:02 /usr/sbin/acpid
+avahi        933  0.0  0.0   8536  2908 ?        Ss   মার্চ12   0:00 avahi-daemon: running [slaveOfAllah.local]
+root         934  0.0  0.0   8424  4016 ?        Ss   মার্চ12   0:00 /usr/lib/bluetooth/bluetoothd
+root         935  0.0  0.0   9760  2840 ?        Ss   মার্চ12   0:00 /usr/sbin/cron -f
+message+     937  0.0  0.0  10176  5768 ?        Ss   মার্চ12   0:20 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         940  0.1  0.2 746656 16056 ?        Ssl  মার্চ12   1:33 /usr/sbin/NetworkManager --no-daemon
+root         947  0.0  0.0  81900  3392 ?        Ssl  মার্চ12   0:09 /usr/sbin/irqbalance --foreground
+root         953  0.0  0.2  39668 18776 ?        Ss   মার্চ12   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         959  0.0  0.1 241492 10604 ?        Ssl  মার্চ12   0:03 /usr/lib/policykit-1/polkitd --no-debug
+syslog       962  0.0  0.0 224352  4008 ?        Ssl  মার্চ12   0:01 /usr/sbin/rsyslogd -n -iNONE
+root         968  0.0  0.2 1095140 20376 ?       Ssl  মার্চ12   0:13 /usr/lib/snapd/snapd
+root         969  0.0  0.0 235948  5392 ?        Ssl  মার্চ12   0:00 /usr/libexec/switcheroo-control
+root         971  0.0  0.0  16788  6060 ?        Ss   মার্চ12   0:00 /lib/systemd/systemd-logind
+root         973  0.0  0.1 126608  8268 ?        Ssl  মার্চ12   0:54 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         976  0.0  0.1 393720 11704 ?        Ssl  মার্চ12   0:25 /usr/lib/udisks2/udisksd
+root         977  0.0  0.0  14200  6772 ?        Ss   মার্চ12   0:01 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+daemon       978  0.0  0.0   3800  1912 ?        Ss   মার্চ12   0:00 /usr/sbin/atd -f
+avahi        980  0.0  0.0   8348   332 ?        S    মার্চ12   0:00 avahi-daemon: chroot helper
+root        1043  0.0  0.1 314464  7928 ?        Ssl  মার্চ12   0:00 /usr/sbin/ModemManager
+tomcat      1071  0.2  2.7 5666976 215796 ?      Ssl  মার্চ12   3:21 /usr/lib/jvm/default-java/bin/java -Djava.util.logging.config.file=/var/lib/tomcat9/conf/logging.properties -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Djava.awt.headless=true -Djdk.tls.ephemeralDHKeySize=2048 -Djava.protocol.handler.pkgs=org.apache.catalina.webresources -Dorg.apache.catalina.security.SecurityListener.UMASK=0027 -Dignore.endorsed.dirs= -classpath /usr/share/tomcat9/bin/bootstrap.jar:/usr/share/tomcat9/bin/tomcat-juli.jar -Dcatalina.base=/var/lib/tomcat9 -Dcatalina.home=/usr/share/tomcat9 -Djava.io.tmpdir=/tmp org.apache.catalina.startup.Bootstrap start
+root        1077  0.0  0.2 118472 20648 ?        Ssl  মার্চ12   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1078  0.0  0.0 239944  7704 ?        Ssl  মার্চ12   0:00 /usr/sbin/gdm3
+postgres    1119  0.0  0.3 218644 24044 ?        Ss   মার্চ12   0:01 /usr/lib/postgresql/12/bin/postgres -D /var/lib/postgresql/12/main -c config_file=/etc/postgresql/12/main/postgresql.conf
+postgres    1178  0.0  0.0 218644  4976 ?        Ss   মার্চ12   0:00 postgres: 12/main: checkpointer   
+postgres    1179  0.0  0.0 218644  4872 ?        Ss   মার্চ12   0:01 postgres: 12/main: background writer   
+postgres    1180  0.0  0.1 218644  9016 ?        Ss   মার্চ12   0:01 postgres: 12/main: walwriter   
+postgres    1181  0.0  0.0 219188  7324 ?        Ss   মার্চ12   0:00 postgres: 12/main: autovacuum launcher   
+postgres    1182  0.0  0.0  73008  3996 ?        Ss   মার্চ12   0:01 postgres: 12/main: stats collector   
+postgres    1183  0.0  0.0 219184  5964 ?        Ss   মার্চ12   0:00 postgres: 12/main: logical replication launcher   
+rtkit       1204  0.0  0.0 152936  2600 ?        SNsl মার্চ12   0:01 /usr/libexec/rtkit-daemon
+root        1306  0.0  0.1 253124  9172 ?        Ssl  মার্চ12   0:11 /usr/lib/upower/upowerd
+colord      1617  0.0  0.1 246764 13124 ?        Ssl  মার্চ12   0:00 /usr/libexec/colord
+whoopsie    1658  0.0  0.1 326832 12312 ?        Ssl  মার্চ12   0:00 /usr/bin/whoopsie -f
+kernoops    1662  0.0  0.0  11260   388 ?        Ss   মার্চ12   0:05 /usr/sbin/kerneloops --test
+kernoops    1664  0.0  0.0  11260   444 ?        Ss   মার্চ12   0:06 /usr/sbin/kerneloops
+root        1671  0.0  0.0      0     0 ?        I<   মার্চ12   0:00 [iprt-VBoxWQueue]
+root        1673  0.1  0.0 1077936 7796 ?        Sl   মার্চ12   2:06 /opt/teamviewer/tv_bin/teamviewerd -d
+root        1678  0.0  0.0      0     0 ?        S    মার্চ12   0:00 [iprt-VBoxTscThr]
+root        1715  0.0  0.1 315000  9072 ?        Sl   মার্চ12   0:00 gdm-session-worker [pam/gdm-password]
+mohammad    1722  0.0  0.0  19372  7604 ?        Ss   মার্চ12   0:04 /lib/systemd/systemd --user
+mohammad    1723  0.0  0.0 169356  2408 ?        S    মার্চ12   0:00 (sd-pam)
+mohammad    1728 11.2  0.2 4368488 17424 ?       S<sl মার্চ12 158:12 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+mohammad    1730  0.0  0.2 857376 16564 ?        SNsl মার্চ12   0:08 /usr/libexec/tracker-miner-fs
+mohammad    1733  0.0  0.0   8964  5184 ?        Ss   মার্চ12   0:14 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+mohammad    1749  0.0  0.0 240632  6704 ?        Sl   মার্চ12   0:01 /usr/bin/gnome-keyring-daemon --daemonize --login
+mohammad    1753  0.0  0.0 240160  6584 ?        Ssl  মার্চ12   0:00 /usr/libexec/gvfsd
+mohammad    1760  0.0  0.0 378344  5504 ?        Sl   মার্চ12   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+mohammad    1763  0.0  0.1 314492  8284 ?        Ssl  মার্চ12   0:12 /usr/libexec/gvfs-udisks2-volume-monitor
+root        1775  0.0  0.0      0     0 ?        S<   মার্চ12   0:00 [krfcommd]
+mohammad    1777  0.0  0.0 236216  5032 ?        Ssl  মার্চ12   0:00 /usr/libexec/gvfs-goa-volume-monitor
+mohammad    1781  0.0  0.2 547688 17100 ?        Sl   মার্চ12   0:00 /usr/libexec/goa-daemon
+mohammad    1790  0.0  0.0 315096  6248 ?        Sl   মার্চ12   0:01 /usr/libexec/goa-identity-service
+mohammad    1795  0.0  0.0 236044  5320 ?        Ssl  মার্চ12   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+mohammad    1800  0.0  0.0 238448  5296 ?        Ssl  মার্চ12   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+mohammad    1805  0.0  0.0 317064  7196 ?        Ssl  মার্চ12   0:03 /usr/libexec/gvfs-afc-volume-monitor
+mohammad    1820  0.0  0.0 164356  5648 tty2     Ssl+ মার্চ12   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+mohammad    1822  3.0  1.0 545604 82208 tty2     Sl+  মার্চ12  43:22 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+mohammad    1831  0.0  0.1 188560 11116 tty2     Sl+  মার্চ12   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+mohammad    1900  0.0  0.0   6040   100 ?        Ss   মার্চ12   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+mohammad    1919  0.0  0.0 305380  5856 ?        Ssl  মার্চ12   0:00 /usr/libexec/at-spi-bus-launcher
+mohammad    1924  0.0  0.0   7508  3660 ?        S    মার্চ12   0:01 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+mohammad    1933  0.0  0.0  90400  3372 ?        Ssl  মার্চ12   0:00 /usr/libexec/gnome-session-ctl --monitor
+mohammad    1940  0.0  0.1 484744 11576 ?        Ssl  মার্চ12   0:04 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+mohammad    1954  7.6  3.6 4994972 290604 ?      Ssl  মার্চ12 108:40 /usr/bin/gnome-shell
+mohammad    1976  0.0  0.1 387764 10532 ?        Sl   মার্চ12   0:34 ibus-daemon --panel disable --xim
+mohammad    1980  0.0  0.0 236872  6024 ?        Sl   মার্চ12   0:00 /usr/libexec/ibus-dconf
+mohammad    1981  0.0  0.2 276064 16060 ?        Sl   মার্চ12   0:05 /usr/libexec/ibus-extension-gtk3
+mohammad    1984  0.0  0.2 198316 15960 ?        Sl   মার্চ12   0:00 /usr/libexec/ibus-x11 --kill-daemon
+mohammad    1988  0.0  0.0 236976  6128 ?        Sl   মার্চ12   0:00 /usr/libexec/ibus-portal
+mohammad    1999  0.0  0.0 162836  6624 ?        Sl   মার্চ12   0:05 /usr/libexec/at-spi2-registryd --use-gnome-session
+mohammad    2003  0.0  0.0 235936  3956 ?        Ssl  মার্চ12   0:00 /usr/libexec/xdg-permission-store
+mohammad    2008  0.0  0.1 580948 10980 ?        Sl   মার্চ12   0:00 /usr/libexec/gnome-shell-calendar-server
+mohammad    2014  0.0  0.1 939424 14128 ?        Ssl  মার্চ12   0:00 /usr/libexec/evolution-source-registry
+mohammad    2023  0.0  0.1 1379672 15172 ?       Ssl  মার্চ12   0:00 /usr/libexec/evolution-calendar-factory
+mohammad    2031  0.0  0.0 156360  5236 ?        Sl   মার্চ12   0:00 /usr/libexec/dconf-service
+mohammad    2036  0.0  0.1 820956 15376 ?        Ssl  মার্চ12   0:00 /usr/libexec/evolution-addressbook-factory
+mohammad    2053  0.0  0.2 2734040 18480 ?       Sl   মার্চ12   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+mohammad    2061  0.0  0.0 322628  6840 ?        Sl   মার্চ12   0:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+mohammad    2074  0.0  0.0 309964  5728 ?        Ssl  মার্চ12   0:00 /usr/libexec/gsd-a11y-settings
+mohammad    2075  0.0  0.2 644364 18756 ?        Ssl  মার্চ12   0:02 /usr/libexec/gsd-color
+mohammad    2077  0.0  0.1 373920 10952 ?        Ssl  মার্চ12   0:00 /usr/libexec/gsd-datetime
+mohammad    2082  0.0  0.0 312788  6972 ?        Ssl  মার্চ12   0:05 /usr/libexec/gsd-housekeeping
+mohammad    2084  0.0  0.2 346292 16196 ?        Ssl  মার্চ12   0:01 /usr/libexec/gsd-keyboard
+mohammad    2085  0.0  0.2 836080 19024 ?        Ssl  মার্চ12   0:04 /usr/libexec/gsd-media-keys
+mohammad    2086  0.0  0.2 760976 20240 ?        Ssl  মার্চ12   0:04 /usr/libexec/gsd-power
+mohammad    2089  0.0  0.1 248556  8120 ?        Ssl  মার্চ12   0:00 /usr/libexec/gsd-print-notifications
+mohammad    2090  0.0  0.0 457440  5336 ?        Ssl  মার্চ12   0:00 /usr/libexec/gsd-rfkill
+mohammad    2093  0.0  0.0 235976  5332 ?        Ssl  মার্চ12   0:00 /usr/libexec/gsd-screensaver-proxy
+mohammad    2095  0.0  0.1 465220  8524 ?        Ssl  মার্চ12   0:09 /usr/libexec/gsd-sharing
+mohammad    2101  0.0  0.1 463060  8476 ?        Ssl  মার্চ12   0:00 /usr/libexec/gsd-smartcard
+mohammad    2107  0.0  0.0 319656  7512 ?        Ssl  মার্চ12   0:00 /usr/libexec/gsd-sound
+mohammad    2110  0.0  0.0 459000  6320 ?        Ssl  মার্চ12   0:00 /usr/libexec/gsd-usb-protection
+mohammad    2111  0.0  0.2 345804 16244 ?        Ssl  মার্চ12   0:01 /usr/libexec/gsd-wacom
+mohammad    2114  0.0  0.0 314316  6156 ?        Ssl  মার্চ12   0:00 /usr/libexec/gsd-wwan
+mohammad    2117  0.0  0.2 350120 16776 ?        Ssl  মার্চ12   0:01 /usr/libexec/gsd-xsettings
+mohammad    2129  0.0  0.3 640220 26920 ?        Sl   মার্চ12   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+mohammad    2133  0.0  0.0 231800  5352 ?        Sl   মার্চ12   0:00 /usr/libexec/gsd-disk-utility-notify
+mohammad    2149  0.0  0.3 500448 23864 ?        Sl   মার্চ12   0:11 /usr/lib/x86_64-linux-gnu/libexec/kdeconnectd
+mohammad    2189  0.0  0.1 342528 10440 ?        Sl   মার্চ12   0:00 /usr/libexec/gsd-printer
+mohammad    2190  0.0  1.6 1091380 129912 ?      Sl   মার্চ12   0:19 /snap/snap-store/558/usr/bin/snap-store --gapplication-service
+mohammad    2216  0.0  0.0 605332  5428 ?        Ssl  মার্চ12   0:01 /usr/libexec/xdg-document-portal
+mohammad    2223  0.0  0.0 163036  6188 ?        Sl   মার্চ12   0:06 /usr/libexec/ibus-engine-simple
+mohammad    2334  0.0  0.1 872744  9532 ?        Ssl  মার্চ12   0:03 /usr/libexec/xdg-desktop-portal
+mohammad    2340  0.0  0.2 497252 18068 ?        Ssl  মার্চ12   0:02 /usr/libexec/xdg-desktop-portal-gtk
+mohammad    3370  0.0  0.2 542364 21088 ?        SLl  মার্চ12   0:00 /usr/bin/seahorse --gapplication-service
+mohammad    3940  0.0  0.0 163660  6636 ?        Ssl  মার্চ12   0:00 /usr/libexec/gvfsd-metadata
+mohammad    3943  0.0  0.2 424788 21472 ?        Sl   মার্চ12   0:02 update-notifier
+mohammad   16000  0.0  0.0 388132  6904 ?        Sl   মার্চ12   0:00 /usr/libexec/gvfsd-network --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+mohammad   16014  0.0  0.0 315324  6740 ?        Sl   মার্চ12   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.3 /org/gtk/gvfs/exec_spaw/3
+mohammad   27303  1.7  3.9 17703612 308660 ?     SLl  মার্চ12  12:57 /opt/google/chrome/chrome --enable-crashpad
+mohammad   27309  0.0  0.0   8568   336 ?        S    মার্চ12   0:00 cat
+mohammad   27310  0.0  0.0   8568   356 ?        S    মার্চ12   0:00 cat
+mohammad   27312  0.0  0.0 16799948 1936 ?       Sl   মার্চ12   0:00 /opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/mohammad/.config/google-chrome/Crash Reports --metrics-dir=/home/mohammad/.config/google-chrome --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 20.04.4 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=98.0.4758.102 --initial-client-fd=5 --shared-client-connection
+mohammad   27314  0.0  0.0 16790712 2016 ?       Sl   মার্চ12   0:00 /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/mohammad/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 20.04.4 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=98.0.4758.102 --initial-client-fd=4 --shared-client-connection
+mohammad   27320  0.0  0.4 17043456 32360 ?      S    মার্চ12   0:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --change-stack-guard-on-fork=enable --enable-crashpad
+mohammad   27321  0.0  0.4 17043456 32400 ?      S    মার্চ12   0:00 /opt/google/chrome/chrome --type=zygote --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --change-stack-guard-on-fork=enable --enable-crashpad
+mohammad   27322  0.0  0.0 16818884 5912 ?       S    মার্চ12   0:00 /opt/google/chrome/nacl_helper
+mohammad   27325  0.0  0.1 17043456 15544 ?      S    মার্চ12   0:01 /opt/google/chrome/chrome --type=zygote --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --change-stack-guard-on-fork=enable --enable-crashpad
+mohammad   27346  0.7  2.3 17413220 188836 ?     Sl   মার্চ12   5:21 /opt/google/chrome/chrome --type=gpu-process --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABgAAAAAAAAAGAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --shared-files --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   27347  0.3  1.2 17136332 99188 ?      SLl  মার্চ12   2:54 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072 --enable-crashpad
+mohammad   27349  0.0  0.5 17093032 44340 ?      Sl   মার্চ12   0:04 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   27885  0.0  0.6 17373476 50648 ?      Sl   মার্চ12   0:07 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072 --enable-crashpad
+mohammad   27973  0.2  1.4 25538952 112456 ?     Sl   মার্চ12   1:51 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=40 --launch-time-ticks=40227759127 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   27991  0.0  2.2 25541000 175580 ?     Sl   মার্চ12   0:28 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=41 --launch-time-ticks=40227857213 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   28003  0.0  1.0 25533024 81916 ?      Sl   মার্চ12   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=42 --launch-time-ticks=40227881978 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+root       43388  0.0  0.0  28780  7172 ?        Ss   00:00   0:00 /usr/sbin/cupsd -l
+root       43389  0.0  0.1 178392  9408 ?        Ssl  00:00   0:00 /usr/sbin/cups-browsed
+mohammad   43834  0.0  1.1 25542320 93900 ?      Sl   00:25   0:03 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=545 --launch-time-ticks=76354989555 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   43846  0.2  2.2 25541892 178808 ?     Sl   00:25   0:19 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=546 --launch-time-ticks=76355044872 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   43862  0.2  1.3 25541700 108316 ?     Sl   00:25   0:17 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=547 --launch-time-ticks=76355119588 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   43863  0.0  1.0 25533660 82396 ?      Sl   00:25   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=548 --launch-time-ticks=76355147326 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   43966  1.6  3.2 25620384 256876 ?     Sl   00:25   2:18 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=558 --launch-time-ticks=76357275684 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   44132  0.9  1.3 38371064 108868 ?     SLl  00:27   1:20 /usr/share/discord/Discord
+mohammad   44135  0.0  0.2 213496 21900 ?        S    00:27   0:00 /usr/share/discord/Discord --type=zygote --no-zygote-sandbox
+mohammad   44136  0.0  0.2 213496 21452 ?        S    00:27   0:00 /usr/share/discord/Discord --type=zygote
+mohammad   44138  0.0  0.0 213496  6732 ?        S    00:27   0:00 /usr/share/discord/Discord --type=zygote
+mohammad   44163  1.4  1.3 570536 104468 ?       Sl   00:27   2:03 /usr/share/discord/Discord --type=gpu-process --field-trial-handle=3527318271684254770,12676518131890440587,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --enable-crash-reporter=a56f6d5d-0437-489d-8b6f-ed19dc59989f,no_channel --global-crash-keys=a56f6d5d-0437-489d-8b6f-ed19dc59989f,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.17 --gpu-preferences=UAAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --shared-files
+mohammad   44174  0.0  0.5 291352 39896 ?        Sl   00:27   0:07 /usr/share/discord/Discord --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=3527318271684254770,12676518131890440587,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-US --service-sandbox-type=none --enable-crash-reporter=a56f6d5d-0437-489d-8b6f-ed19dc59989f,no_channel --global-crash-keys=a56f6d5d-0437-489d-8b6f-ed19dc59989f,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.17 --shared-files=v8_context_snapshot_data:100
+mohammad   44237  0.0  0.3 547216 29668 ?        Sl   00:27   0:01 /usr/share/discord/Discord --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=3527318271684254770,12676518131890440587,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-US --service-sandbox-type=none --enable-crash-reporter=a56f6d5d-0437-489d-8b6f-ed19dc59989f,no_channel --global-crash-keys=a56f6d5d-0437-489d-8b6f-ed19dc59989f,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.17 --shared-files=v8_context_snapshot_data:100
+mohammad   44354 88.9  4.5 61849868 356360 ?     Sl   00:27 122:44 /usr/share/discord/Discord --type=renderer --autoplay-policy=no-user-gesture-required --field-trial-handle=3527318271684254770,12676518131890440587,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,MediaSessionService,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --lang=en-US --enable-crash-reporter=a56f6d5d-0437-489d-8b6f-ed19dc59989f,no_channel --global-crash-keys=a56f6d5d-0437-489d-8b6f-ed19dc59989f,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.17 --app-path=/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=10 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --enable-node-leakage-in-renderers
+mohammad   45024  0.5  1.1 1417524 91884 ?       Sl   00:31   0:42 gnome-control-center
+mohammad   46556  0.0  0.0  62084  1736 ?        S    01:09   0:00 /snap/eclipse/48/eclipse
+mohammad   46594 12.0 10.1 90539192 800760 ?     Sl   01:09  11:38 /usr/bin/java -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication --add-modules=ALL-SYSTEM -Dosgi.requiredJavaVersion=1.8 -Dosgi.dataAreaRequiresExplicitInit=true -Xms256m -Xmx1024m --add-modules=ALL-SYSTEM -jar /snap/eclipse/48//plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar -os linux -ws gtk -arch x86_64 -showsplash /snap/eclipse/48//plugins/org.eclipse.epp.package.common_4.14.0.20191212-1200/splash.bmp -launcher /snap/eclipse/48/eclipse -name Eclipse --launcher.library /snap/eclipse/48//plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.1100.v20190907-0426/eclipse_1801.so -startup /snap/eclipse/48//plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar --launcher.appendVmargs -exitdata 30037 -product org.eclipse.epp.package.java.product -vm /usr/bin/java -vmargs -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication --add-modules=ALL-SYSTEM -Dosgi.requiredJavaVersion=1.8 -Dosgi.dataAreaRequiresExplicitInit=true -Xms256m -Xmx1024m --add-modules=ALL-SYSTEM -jar /snap/eclipse/48//plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar
+mohammad   46755  0.0  0.3 86567104 26240 ?      SLl  01:10   0:00 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitNetworkProcess 5 155
+mohammad   46757  0.0  0.7 102519180 57016 ?     SLl  01:10   0:03 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitWebProcess 9 154
+mohammad   46780  0.0  0.9 85744080 72112 ?      SLl  01:10   0:03 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitWebProcess 17 159
+mohammad   47146  0.4  0.9 1185028 76644 ?       Sl   01:17   0:21 codeblocks
+root       47496  0.0  0.0      0     0 ?        I<   01:24   0:02 [kworker/u9:2-i915_flip]
+mohammad   48742  0.0  0.9 85741964 72196 ?      SLl  01:43   0:02 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitWebProcess 73 171
+mohammad   48781  0.0  0.9 102521312 74616 ?     SLl  01:44   0:02 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitWebProcess 80 122
+root       48891  0.1  0.0      0     0 ?        I<   01:46   0:04 [kworker/u9:1-rb_allocator]
+root       49798  0.0  0.0      0     0 ?        I    01:59   0:01 [kworker/u8:0-i915]
+root       50254  0.0  0.0      0     0 ?        I    02:06   0:01 [kworker/u8:3-i915]
+root       50831  0.0  0.0      0     0 ?        I    02:18   0:00 [kworker/3:1-events]
+root       50840  0.0  0.0      0     0 ?        I    02:18   0:00 [kworker/u8:1-ext4-rsv-conversion]
+root       51283  0.0  0.0      0     0 ?        I    02:30   0:00 [kworker/2:0-events]
+mohammad   51315  1.8  2.2 25573448 178284 ?     Sl   02:30   0:16 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=715 --launch-time-ticks=83839357150 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51365  0.0  1.1 25530376 93208 ?      Sl   02:30   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=720 --launch-time-ticks=83851127052 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51366  0.3  1.6 25547220 132848 ?     Sl   02:30   0:03 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=721 --launch-time-ticks=83851142615 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51407  0.3  1.5 25543056 118780 ?     Sl   02:30   0:02 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=723 --launch-time-ticks=83853074390 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51420  0.1  1.2 25538572 101140 ?     Sl   02:30   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=724 --launch-time-ticks=83854680879 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51432  0.0  1.1 25538572 94012 ?      Sl   02:30   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=725 --launch-time-ticks=83856033972 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51433  0.1  1.2 25538572 99792 ?      Sl   02:30   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=726 --launch-time-ticks=83856046567 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51442  0.1  1.2 25538636 99744 ?      Sl   02:30   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=727 --launch-time-ticks=83856054427 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51467  0.0  1.1 25530376 94064 ?      Sl   02:30   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=728 --launch-time-ticks=83856163492 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51474  0.1  1.2 25563292 100844 ?     Sl   02:30   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=729 --launch-time-ticks=83856176474 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51475  0.0  1.1 25538572 94192 ?      Sl   02:30   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=730 --launch-time-ticks=83856186961 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51476  0.0  1.1 25538628 92660 ?      Sl   02:30   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=731 --launch-time-ticks=83856196343 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51518  0.0  1.1 25538564 91052 ?      Sl   02:30   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=733 --launch-time-ticks=83857243121 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51530  0.0  1.1 25538564 90988 ?      Sl   02:30   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=734 --launch-time-ticks=83857294649 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51547  0.0  1.1 25538564 90040 ?      Sl   02:30   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=735 --launch-time-ticks=83857371274 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51566  0.0  1.1 25538564 90944 ?      Sl   02:31   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=736 --launch-time-ticks=83858512744 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51584 13.5  3.3 38214608 265012 ?     Sl   02:31   1:59 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=737 --launch-time-ticks=83860120953 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+root       51659  0.3  0.0      0     0 ?        I    02:32   0:02 [kworker/1:0-events]
+root       51661  0.0  0.0      0     0 ?        I    02:32   0:00 [kworker/0:2-events]
+mohammad   51789  0.1  1.3 25539344 104460 ?     Sl   02:32   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=748 --launch-time-ticks=83965599437 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51816  0.1  1.3 25539344 102948 ?     Sl   02:32   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=750 --launch-time-ticks=83967900580 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51829  0.1  1.3 25541932 110520 ?     Sl   02:32   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=751 --launch-time-ticks=83968276055 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51849  1.5  1.6 25553804 133056 ?     Sl   02:32   0:12 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --js-flags=--jitless --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=753 --launch-time-ticks=83969191160 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51976  0.0  1.1 25539288 88156 ?      Sl   02:34   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=760 --launch-time-ticks=84076582463 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   51977  0.1  1.2 25540364 100156 ?     Sl   02:34   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=759 --launch-time-ticks=84076597866 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   52001  0.2  1.3 25539720 107320 ?     Sl   02:34   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=761 --launch-time-ticks=84077036682 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   52049  0.0  1.1 25538564 91636 ?      Sl   02:34   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=765 --launch-time-ticks=84091308534 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   52113  0.1  1.3 25539344 105276 ?     Sl   02:35   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=766 --launch-time-ticks=84098275845 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+root       52141  0.0  0.0      0     0 ?        I    02:35   0:00 [kworker/2:2-events]
+root       52146  0.0  0.0      0     0 ?        I    02:35   0:00 [kworker/3:0-events]
+root       52338  0.6  0.0      0     0 ?        I    02:37   0:03 [kworker/1:1-events]
+root       52339  0.0  0.0      0     0 ?        I    02:37   0:00 [kworker/0:0-events]
+mohammad   52340  0.9  1.6 42472072 128728 ?     SLl  02:37   0:04 /usr/share/code/code --unity-launch
+mohammad   52344  0.0  0.3 195896 27444 ?        S    02:37   0:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+mohammad   52345  0.0  0.3 195896 27536 ?        S    02:37   0:00 /usr/share/code/code --type=zygote
+mohammad   52347  0.0  0.0 195896  7256 ?        S    02:37   0:00 /usr/share/code/code --type=zygote
+mohammad   52373 10.0  1.3 495576 110428 ?       Sl   02:37   0:47 /usr/share/code/code --type=gpu-process --field-trial-handle=1770686819449402508,11083330295288305695,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --disable-color-correct-rendering --enable-crash-reporter=10a436ee-3407-43aa-873a-f8c08b704084,no_channel --global-crash-keys=10a436ee-3407-43aa-873a-f8c08b704084,no_channel,_companyName=Microsoft,_productName=VSCode,_version=1.64.2 --user-data-dir=/home/mohammad/.config/Code --gpu-preferences=UAAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --shared-files
+mohammad   52390  0.7  0.5 264820 43904 ?        Sl   02:37   0:03 /usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1770686819449402508,11083330295288305695,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=none --enable-crash-reporter=10a436ee-3407-43aa-873a-f8c08b704084,no_channel --global-crash-keys=10a436ee-3407-43aa-873a-f8c08b704084,no_channel,_companyName=Microsoft,_productName=VSCode,_version=1.64.2 --user-data-dir=/home/mohammad/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100
+mohammad   52404  7.0  2.2 48678736 181116 ?     Sl   02:37   0:33 /usr/share/code/code --type=renderer --disable-color-correct-rendering --field-trial-handle=1770686819449402508,11083330295288305695,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=10a436ee-3407-43aa-873a-f8c08b704084,no_channel --global-crash-keys=10a436ee-3407-43aa-873a-f8c08b704084,no_channel,_companyName=Microsoft,_productName=VSCode,_version=1.64.2 --user-data-dir=/home/mohammad/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/usr/share/code/resources/app --no-sandbox --no-zygote --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --vscode-window-config=vscode:ec7d7ebe-e50f-439c-b4e8-e25858837d54
+mohammad   52440  5.3  1.5 42332980 124596 ?     Sl   02:37   0:25 /usr/share/code/code --type=renderer --disable-color-correct-rendering --field-trial-handle=1770686819449402508,11083330295288305695,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=10a436ee-3407-43aa-873a-f8c08b704084,no_channel --global-crash-keys=10a436ee-3407-43aa-873a-f8c08b704084,no_channel,_companyName=Microsoft,_productName=VSCode,_version=1.64.2 --user-data-dir=/home/mohammad/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/usr/share/code/resources/app --no-sandbox --no-zygote --node-integration-in-worker --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --vscode-window-config=vscode:7e5255a5-12c9-4e4e-8350-f79a491058d2 --vscode-window-kind=shared-process
+mohammad   52452  3.3  5.3 38122784 425784 ?     Sl   02:37   0:16 /usr/share/code/code --ms-enable-electron-run-as-node --inspect-port=0 /usr/share/code/resources/app/out/bootstrap-fork --type=extensionHost --skipWorkspaceStorageLock
+mohammad   52466  0.1  0.6 38027960 53168 ?      Sl   02:37   0:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/out/bootstrap-fork --type=ptyHost
+mohammad   52503  0.0  0.6 38036476 50808 ?      Sl   02:37   0:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/out/bootstrap-fork --type=fileWatcher
+mohammad   52515  1.8  0.8 1076816 67668 ?       Sl   02:37   0:08 /usr/bin/nautilus --gapplication-service
+mohammad   52536  0.0  0.0  11232  3860 pts/0    Ss+  02:37   0:00 /bin/bash
+mohammad   52564  0.0  0.5 37985804 46240 ?      Sl   02:37   0:00 /usr/share/code/code --ms-enable-electron-run-as-node /home/mohammad/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/server/dist/serverMain.js --node-ipc --clientProcessId=52452
+mohammad   52784  0.0  0.5 37985804 47252 ?      Sl   02:37   0:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=52452
+mohammad   52814  0.0  0.0   2616   596 ?        S    02:38   0:00 /bin/sh -c "/home/mohammad/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5418/dotnet_modules/vsls-agent" --autoexit --enableRpcInitialize --pipe vscode.a04db6797951caa21c0574d2e096fecf --service https://prod.liveshare.vsengsaas.visualstudio.com/ --signalRServiceUri https://signlr-prod.core.vsengsaas.visualstudio.com/api/signalr/signalrhub --agentExtensionPath "/home/mohammad/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5418/dotnet_modules/Microsoft.VisualStudio.LiveShare.Agent.PresenceService.dll"
+mohammad   52815  0.5  0.8 3278048 69160 ?       Sl   02:38   0:02 /home/mohammad/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5418/dotnet_modules/vsls-agent --autoexit --enableRpcInitialize --pipe vscode.a04db6797951caa21c0574d2e096fecf --service https://prod.liveshare.vsengsaas.visualstudio.com/ --signalRServiceUri https://signlr-prod.core.vsengsaas.visualstudio.com/api/signalr/signalrhub --agentExtensionPath /home/mohammad/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5418/dotnet_modules/Microsoft.VisualStudio.LiveShare.Agent.PresenceService.dll
+mohammad   52828  4.4  2.6 42374612 211732 ?     Sl   02:38   0:20 /usr/share/code/code --ms-enable-electron-run-as-node /home/mohammad/.vscode/extensions/ms-python.vscode-pylance-2022.3.0/dist/server.bundle.js --cancellationReceive=file:fe5464cff45e21f534ba9216afc83d531cfca4aebb --node-ipc --clientProcessId=52452
+mohammad   52852  0.0  0.5 414824 44088 ?        Sl   02:38   0:00 /usr/bin/kwalletd5
+mohammad   52875  0.7  0.8 831472 68848 ?        Sl   02:38   0:03 /usr/bin/gedit --gapplication-service
+mohammad   52914  0.0  0.3 136912 24312 ?        Sl   02:38   0:00 /home/mohammad/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.1.16/x86_64-unknown-linux-musl/TabNine --client=vscode --no-lsp=true --client-metadata clientVersion=1.64.2 pluginVersion=3.5.26 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-remote-name=undefined vscode-extension-kind=1 vscode-theme-name=Default Dark+ vscode-theme-kind=Dark vscode-machine-id=198fff24f57ccbe01df5d728d7aecf02303e838a0a62a5298c50746f93e82f5d vscode-is-new-app-install=false vscode-session-id=ec8a8d60-edc8-47ba-ac94-04439a4bcfa01647117465059 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown ide-restart-counter=1
+mohammad   52942  2.3  0.2  46436 16932 ?        Sl   02:38   0:10 /home/mohammad/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.1.16/x86_64-unknown-linux-musl/WD-TabNine --client vscode --client-metadata clientVersion=1.64.2 pluginVersion=3.5.26 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-remote-name=undefined vscode-extension-kind=1 vscode-theme-name=Default Dark+ vscode-theme-kind=Dark vscode-machine-id=198fff24f57ccbe01df5d728d7aecf02303e838a0a62a5298c50746f93e82f5d vscode-is-new-app-install=false vscode-session-id=ec8a8d60-edc8-47ba-ac94-04439a4bcfa01647117465059 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown ide-restart-counter=1
+mohammad   52955  0.1  1.2 296372 97736 ?        Sl   02:38   0:00 /home/mohammad/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.1.16/x86_64-unknown-linux-musl/TabNine --client=vscode --no-lsp=true --client-metadata clientVersion=1.64.2 pluginVersion=3.5.26 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-remote-name=undefined vscode-extension-kind=1 vscode-theme-name=Default Dark+ vscode-theme-kind=Dark vscode-machine-id=198fff24f57ccbe01df5d728d7aecf02303e838a0a62a5298c50746f93e82f5d vscode-is-new-app-install=false vscode-session-id=ec8a8d60-edc8-47ba-ac94-04439a4bcfa01647117465059 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown ide-restart-counter=1 --no_bootstrap
+mohammad   53005  0.9  5.8 683080 461592 ?       Sl   02:38   0:04 /home/mohammad/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.1.16/x86_64-unknown-linux-musl/TabNine-deep-local --settings /home/mohammad/.config/TabNine/local.settingsSmall --settings-version 1 --client vscode --client-metadata clientVersion=1.64.2 pluginVersion=3.5.26 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-remote-name=undefined vscode-extension-kind=1 vscode-theme-name=Default Dark+ vscode-theme-kind=Dark vscode-machine-id=198fff24f57ccbe01df5d728d7aecf02303e838a0a62a5298c50746f93e82f5d vscode-is-new-app-install=false vscode-session-id=ec8a8d60-edc8-47ba-ac94-04439a4bcfa01647117465059 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown ide-restart-counter=1
+root       53243  0.0  0.0      0     0 ?        I    02:40   0:00 [kworker/3:2-events]
+root       53250  0.0  0.0      0     0 ?        I    02:40   0:00 [kworker/2:1-events]
+mohammad   53364  0.0  0.5 21295532 45752 ?      Sl   02:41   0:00 /opt/google/chrome/chrome --type=utility --utility-sub-type=proxy_resolver.mojom.ProxyResolverFactory --lang=en-US --service-sandbox-type=service --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   53399  0.2  1.2 25530376 99584 ?      Sl   02:41   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=784 --launch-time-ticks=84491143695 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+root       53473  0.1  0.0      0     0 ?        I    02:42   0:00 [kworker/1:2-events]
+root       53541  0.0  0.0      0     0 ?        I    02:43   0:00 [kworker/0:1-events]
+root       53551  0.0  0.0      0     0 ?        I<   02:43   0:00 [kworker/u9:0]
+mohammad   53792  1.1  1.3 25530380 104512 ?     Sl   02:44   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=803 --launch-time-ticks=84690961731 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   53821  0.8  1.2 25530376 98000 ?      Sl   02:44   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=805 --launch-time-ticks=84695664470 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   53865  0.0  0.7 25530228 60792 ?      Sl   02:45   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=27312 --enable-crash-reporter=b8f92725-846e-43cb-92b6-67f05786b340, --display-capture-permissions-policy-allowed --origin-trial-disabled-features=ConditionalFocus --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=808 --launch-time-ticks=84702632832 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,2944036870366938863,2895080153020868419,131072
+mohammad   53943  4.3  0.6 818020 53084 ?        Ssl  02:45   0:00 /usr/libexec/gnome-terminal-server
+mohammad   53951  0.3  0.0  11356  5308 pts/1    Ss   02:45   0:00 bash
+root       53965  0.0  0.0      0     0 ?        I    02:45   0:00 [kworker/2:3-events]
+mohammad   53969  0.0  0.0   9972  3512 pts/1    S+   02:45   0:00 bash SysMonitor.sh
+mohammad   53973  0.0  0.1 355588 15360 ?        Rsl  02:45   0:00 /usr/libexec/tracker-store
+mohammad   53974  0.0  0.0  12164  3568 pts/1    R+   02:45   0:00 ps -aux
+mohammad   53975  0.0  0.0   8920  2112 pts/1    S+   02:45   0:00 less
+
+
+[0;31mTop 5 CPU utilizing Processess : [0m
+
+
+    PID    PPID CMD                         %MEM %CPU
+  44354   44132 /usr/share/discord/Discord   4.5 88.9
+  51584   27325 /opt/google/chrome/chrome -  3.3 13.5
+  46594   46556 /usr/bin/java -Dosgi.requir 10.1 12.0
+   1728    1722 /usr/bin/pulseaudio --daemo  0.2 11.2
+  52373   52344 /usr/share/code/code --type  1.3 10.0
+
+
+[0;31mDevice Plugged in: [0m
+
+
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 004: ID 8087:0a2a Intel Corp. 
+Bus 001 Device 003: ID 0bda:0129 Realtek Semiconductor Corp. RTS5129 Card Reader Controller
+Bus 001 Device 002: ID 0bda:5689 Realtek Semiconductor Corp. Integrated Webcam
+Bus 001 Device 005: ID 22d9:2046 OPPO CPH2239
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+
+
+[0;31mOverall Disk Usuage: [0m
+
+
+Filesystem     1K-blocks      Used Available Use% Mounted on
+udev             3920724         0   3920724   0% /dev
+tmpfs             790840      2100    788740   1% /run
+/dev/sdb1       48950948  27968352  18466272  61% /
+tmpfs            3954192    242448   3711744   7% /dev/shm
+tmpfs               5120         4      5116   1% /run/lock
+tmpfs            3954192         0   3954192   0% /sys/fs/cgroup
+/dev/loop0           128       128         0 100% /snap/bare/5
+/dev/loop1        256896    256896         0 100% /snap/brave/147
+/dev/loop3        215168    215168         0 100% /snap/eclipse/48
+/dev/loop2         63488     63488         0 100% /snap/core20/1361
+/dev/loop4        256896    256896         0 100% /snap/brave/148
+/dev/loop5        113536    113536         0 100% /snap/core/12725
+/dev/loop6         56960     56960         0 100% /snap/core18/2284
+/dev/loop7         63488     63488         0 100% /snap/core20/1376
+/dev/loop8        168832    168832         0 100% /snap/gnome-3-28-1804/161
+/dev/loop9           256       256         0 100% /snap/gtk2-common-themes/13
+/dev/loop10        68352     68352         0 100% /snap/john-the-ripper/459
+/dev/loop11       515072    515072         0 100% /snap/netbeans/52
+/dev/loop12       434432    434432         0 100% /snap/kde-frameworks-5-qt-5-15-3-core20/8
+/dev/loop13       541312    541312         0 100% /snap/pycharm-community/267
+/dev/loop14       182912    182912         0 100% /snap/kdenlive/48
+/dev/loop15        55552     55552         0 100% /snap/snap-store/558
+/dev/loop16        56832     56832         0 100% /snap/core18/2253
+/dev/loop17       254848    254848         0 100% /snap/gnome-3-38-2004/99
+/dev/loop18       451200    451200         0 100% /snap/gradle/134
+/dev/loop19        52224     52224         0 100% /snap/snap-store/547
+/dev/loop20        83584     83584         0 100% /snap/shotcut/607
+/dev/loop21       448768    448768         0 100% /snap/netbeans/58
+/dev/loop22       227456    227456         0 100% /snap/glimpse-editor/205
+/dev/loop23       227456    227456         0 100% /snap/glimpse-editor/204
+/dev/loop24        44672     44672         0 100% /snap/snapd/14978
+/dev/loop25        66816     66816         0 100% /snap/gtk-common-themes/1519
+/dev/loop26       224256    224256         0 100% /snap/gnome-3-34-1804/72
+/dev/loop27       541312    541312         0 100% /snap/pycharm-community/268
+/dev/loop28        66432     66432         0 100% /snap/gtk-common-themes/1514
+/dev/loop29       253952    253952         0 100% /snap/gnome-3-38-2004/87
+/dev/loop30       224256    224256         0 100% /snap/gnome-3-34-1804/77
+/dev/sdb5      144262228 135700128   1164264 100% /home
+tmpfs             790836        76    790760   1% /run/user/1000
+
+
+[0;31mUSers home Directory Disk Usage:  [0m
+
+
+3.3G /home/mohammad/Desktop
+
+
+[0;31mOther Directories Disk Usage:[0m 
+
+
+drwxrwxr-x  5 mohammad mohammad   4096 জানু       3 12:08 NSU/
+drwxrwxr-x  2 mohammad mohammad   4096 মার্চ     12 02:52 OBS_FILES/
+drwxrwxr-x  4 mohammad mohammad 131072 মার্চ     12 19:10 ViberDownloads/
+drwxrwxr-x 13 mohammad mohammad   4096 ফেব      23 01:44 works/
+
+
+[0;31mNetWork Interfaces : [0m
+
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo: 138642009 1510492    0    0    0     0          0         0 138642009 1510492    0    0    0     0       0          0
+enp2s0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+wlp1s0: 4295722031 4704292    0    0    0     0          0         0 1556074280 7076208    0    0    0     0       0          0
+
+
+[0;31mShowing nmcli Connections: [0m
+
+
+NAME                UUID                                  TYPE      DEVICE 
+Encrypted           ad845e09-a95f-47fb-8734-02498d09e9df  wifi      wlp1s0 
+AbdulAziz           52abb713-f44b-447e-a6e7-2394818c67b7  wifi      --     
+Dewan's Net         baa77640-2ba6-4730-b940-6d26e73e0f97  wifi      --     
+Javed               d85bf949-e177-41e2-8928-fc6cb6586a9a  wifi      --     
+jewwel              791d18a5-cebb-47f5-ad25-e6781e5435f3  wifi      --     
+Leo WiFi            ec9af7e2-c96d-4386-9f8c-f582d80c9d17  wifi      --     
+Slave of Allah      d531cd86-aae8-46e3-be0d-be88f4106615  wifi      --     
+Virus27             d2437eb2-aa44-4bcf-9c70-def2b706845c  wifi      --     
+Wired connection 1  36554fe6-9c01-3157-9e5d-2641b793759f  ethernet  --     
